@@ -1,0 +1,553 @@
+MatchID,Team,Opponent,Innings,Extras,Total,Wickets,Overs
+1,Punjab,Puducherry,1,13,282,10,66.3
+1,Puducherry,Punjab,1,8,262,10,65.4
+1,Punjab,Puducherry,2,31,222,10,46.5
+1,Puducherry,Punjab,2,26,473,10,108.3
+2,Delhi,Kerala,1,25,393,10,94.5
+2,Kerala,Delhi,1,25,316,10,67.2
+2,Delhi,Kerala,2,18,333,10,81.1
+2,Kerala,Delhi,2,18,256,10,57.2
+3,Punjab,Bengal,1,14,401,10,94.5
+3,Bengal,Punjab,1,12,449,10,109.4
+3,Punjab,Bengal,2,32,341,10,72
+3,Bengal,Punjab,2,30,389,10,87.2
+4,Madhya Pradesh,Services,1,27,224,10,50.1
+4,Services,Madhya Pradesh,1,29,489,10,116.1
+4,Madhya Pradesh,Services,2,23,448,10,106.5
+4,Services,Madhya Pradesh,2,22,429,10,106.4
+5,Karnataka,Gujarat,1,14,232,10,56.5
+5,Gujarat,Karnataka,1,20,356,10,94.1
+5,Karnataka,Gujarat,2,32,443,10,107.5
+5,Gujarat,Karnataka,2,13,296,10,75.5
+6,Puducherry,Uttar Pradesh,1,24,401,10,89
+6,Uttar Pradesh,Puducherry,1,9,490,10,127.1
+6,Puducherry,Uttar Pradesh,2,17,341,10,82.4
+6,Uttar Pradesh,Puducherry,2,27,430,10,105.2
+7,Odisha,Railways,1,29,314,10,74.5
+7,Railways,Odisha,1,26,255,10,57
+7,Odisha,Railways,2,22,254,10,58
+7,Railways,Odisha,2,19,466,10,112
+8,Kerala,Tripura,1,31,415,10,95.3
+8,Tripura,Kerala,1,30,316,10,72.2
+8,Kerala,Tripura,2,24,355,10,88.4
+8,Tripura,Kerala,2,23,256,10,62.4
+9,Himachal Pradesh,Mizoram,1,29,283,10,64.2
+9,Mizoram,Himachal Pradesh,1,24,389,10,92
+9,Himachal Pradesh,Mizoram,2,22,223,10,54.2
+9,Mizoram,Himachal Pradesh,2,17,329,10,80.5
+10,Uttarakhand,Assam,1,14,244,10,54.3
+10,Assam,Uttarakhand,1,31,224,10,48
+10,Uttarakhand,Assam,2,32,455,10,104.4
+10,Assam,Uttarakhand,2,24,435,10,105.4
+11,Bihar,Punjab,1,24,347,10,88
+11,Punjab,Bihar,1,30,478,10,112.2
+11,Bihar,Punjab,2,17,287,10,68.5
+11,Punjab,Bihar,2,26,431,10,103.4
+12,Odisha,Arunachal Pradesh,1,31,348,10,77.5
+12,Arunachal Pradesh,Odisha,1,9,331,10,86.2
+12,Odisha,Arunachal Pradesh,2,24,288,10,66.4
+12,Arunachal Pradesh,Odisha,2,27,271,10,64.4
+13,Maharashtra,Tamil Nadu,1,19,447,10,106.3
+13,Tamil Nadu,Maharashtra,1,23,396,10,88.4
+13,Maharashtra,Tamil Nadu,2,15,400,10,95.4
+13,Tamil Nadu,Maharashtra,2,16,336,10,86.3
+14,Meghalaya,Jammu & Kashmir,1,22,372,10,94.3
+14,Jammu & Kashmir,Meghalaya,1,14,392,10,100.3
+14,Meghalaya,Jammu & Kashmir,2,15,312,10,79.1
+14,Jammu & Kashmir,Meghalaya,2,10,345,10,84.3
+15,Mizoram,Vidarbha,1,26,223,10,50.5
+15,Vidarbha,Mizoram,1,28,337,10,81.5
+15,Mizoram,Vidarbha,2,19,434,10,110
+15,Vidarbha,Mizoram,2,21,277,10,64.3
+16,Uttarakhand,Arunachal Pradesh,1,11,447,10,108.5
+16,Arunachal Pradesh,Uttarakhand,1,16,311,10,72.3
+16,Uttarakhand,Arunachal Pradesh,2,29,387,10,89.5
+16,Arunachal Pradesh,Uttarakhand,2,9,251,10,60.2
+17,Tripura,Haryana,1,15,232,10,56.2
+17,Haryana,Tripura,1,27,395,10,94.1
+17,Tripura,Haryana,2,8,443,10,113.1
+17,Haryana,Tripura,2,20,335,10,80
+18,Tamil Nadu,Goa,1,14,264,10,65.5
+18,Goa,Tamil Nadu,1,12,331,10,81.5
+18,Tamil Nadu,Goa,2,32,475,10,117.1
+18,Goa,Tamil Nadu,2,30,271,10,63.2
+19,Andhra,Gujarat,1,14,294,10,70
+19,Gujarat,Andhra,1,12,327,10,78.1
+19,Andhra,Gujarat,2,32,234,10,53.1
+19,Gujarat,Andhra,2,8,280,10,70.5
+20,Andhra,Assam,1,31,274,10,64.2
+20,Assam,Andhra,1,19,419,10,106.5
+20,Andhra,Assam,2,24,485,10,123.4
+20,Assam,Andhra,2,12,359,10,91.3
+21,Gujarat,Hyderabad,1,29,384,10,88.4
+21,Hyderabad,Gujarat,1,13,265,10,62.2
+21,Gujarat,Hyderabad,2,22,324,10,81.2
+21,Hyderabad,Gujarat,2,31,476,10,108.2
+22,Delhi,Bengal,1,15,452,10,112.3
+22,Bengal,Delhi,1,28,301,10,71.5
+22,Delhi,Bengal,2,8,392,10,99.2
+22,Bengal,Delhi,2,21,241,10,54.4
+23,Delhi,Andhra,1,30,261,10,58.5
+23,Andhra,Delhi,1,20,317,10,72.3
+23,Delhi,Andhra,2,23,472,10,127.2
+23,Andhra,Delhi,2,13,257,10,62
+24,Puducherry,Bihar,1,26,480,10,117.2
+24,Bihar,Puducherry,1,29,227,10,49
+24,Puducherry,Bihar,2,19,420,10,99.1
+24,Bihar,Puducherry,2,22,438,10,106
+25,Saurashtra,Services,1,28,419,10,94.4
+25,Services,Saurashtra,1,28,419,10,96.5
+25,Saurashtra,Services,2,21,359,10,81.3
+25,Services,Saurashtra,2,21,359,10,85.1
+26,Gujarat,Jammu & Kashmir,1,14,452,10,110.1
+26,Jammu & Kashmir,Gujarat,1,16,301,10,77.5
+26,Gujarat,Jammu & Kashmir,2,32,392,10,97
+26,Jammu & Kashmir,Gujarat,2,9,241,10,61.3
+27,Maharashtra,Puducherry,1,18,429,10,97.4
+27,Puducherry,Maharashtra,1,15,344,10,86.1
+27,Maharashtra,Puducherry,2,11,369,10,92.3
+27,Puducherry,Maharashtra,2,8,284,10,73.4
+28,Meghalaya,Goa,1,29,231,10,49.1
+28,Goa,Meghalaya,1,30,441,10,103.2
+28,Meghalaya,Goa,2,22,442,10,106.1
+28,Goa,Meghalaya,2,23,381,10,89.2
+29,Hyderabad,Sikkim,1,28,263,10,59.4
+29,Sikkim,Hyderabad,1,15,273,10,66
+29,Hyderabad,Sikkim,2,21,474,10,115.3
+29,Sikkim,Hyderabad,2,8,484,10,122.5
+30,Jammu & Kashmir,Vidarbha,1,13,449,10,111
+30,Vidarbha,Jammu & Kashmir,1,27,392,10,91.4
+30,Jammu & Kashmir,Vidarbha,2,31,389,10,88
+30,Vidarbha,Jammu & Kashmir,2,20,332,10,83
+31,Uttarakhand,Uttar Pradesh,1,23,356,10,86.3
+31,Uttar Pradesh,Uttarakhand,1,24,257,10,62.2
+31,Uttarakhand,Uttar Pradesh,2,16,296,10,68.5
+31,Uttar Pradesh,Uttarakhand,2,17,468,10,120.1
+32,Kerala,Sikkim,1,19,227,10,53
+32,Sikkim,Kerala,1,8,372,10,89.1
+32,Kerala,Sikkim,2,12,438,10,111.5
+32,Sikkim,Kerala,2,26,312,10,73.5
+33,Chhattisgarh,Karnataka,1,23,475,10,115.3
+33,Karnataka,Chhattisgarh,1,21,431,10,105.5
+33,Chhattisgarh,Karnataka,2,16,415,10,106.1
+33,Karnataka,Chhattisgarh,2,14,371,10,92.3
+34,Baroda,Karnataka,1,18,343,10,85.2
+34,Karnataka,Baroda,1,19,292,10,71.5
+34,Baroda,Karnataka,2,11,283,10,70.2
+34,Karnataka,Baroda,2,12,232,10,58
+35,Odisha,Uttar Pradesh,1,19,364,10,91.4
+35,Uttar Pradesh,Odisha,1,14,284,10,75
+35,Odisha,Uttar Pradesh,2,12,304,10,76.5
+35,Uttar Pradesh,Odisha,2,32,224,10,50.5
+36,Vidarbha,Himachal Pradesh,1,9,266,10,64.4
+36,Himachal Pradesh,Vidarbha,1,20,383,10,92.5
+36,Vidarbha,Himachal Pradesh,2,27,477,10,112.4
+36,Himachal Pradesh,Vidarbha,2,13,323,10,82.2
+37,Goa,Hyderabad,1,28,472,10,123.5
+37,Hyderabad,Goa,1,19,401,10,98.4
+37,Goa,Hyderabad,2,21,412,10,104
+37,Hyderabad,Goa,2,12,341,10,83.1
+38,Uttarakhand,Goa,1,31,453,10,105.4
+38,Goa,Uttarakhand,1,20,267,10,67.1
+38,Uttarakhand,Goa,2,24,393,10,92.5
+38,Goa,Uttarakhand,2,13,478,10,124
+39,Railways,Baroda,1,11,266,10,63.5
+39,Baroda,Railways,1,8,234,10,56.3
+39,Railways,Baroda,2,29,477,10,105.2
+39,Baroda,Railways,2,26,445,10,110.4
+40,Tripura,Uttarakhand,1,14,283,10,68.3
+40,Uttarakhand,Tripura,1,8,287,10,71
+40,Tripura,Uttarakhand,2,32,223,10,48.1
+40,Uttarakhand,Tripura,2,26,227,10,50.3
+41,Chhattisgarh,Maharashtra,1,17,267,10,65.1
+41,Maharashtra,Chhattisgarh,1,16,431,10,104.2
+41,Chhattisgarh,Maharashtra,2,10,478,10,121.1
+41,Maharashtra,Chhattisgarh,2,9,371,10,93.1
+42,Haryana,Karnataka,1,22,406,10,99.1
+42,Karnataka,Haryana,1,10,430,10,101.2
+42,Haryana,Karnataka,2,18,359,10,86.3
+42,Karnataka,Haryana,2,28,370,10,85.2
+43,Karnataka,Sikkim,1,8,291,10,76.1
+43,Sikkim,Karnataka,1,8,418,10,101.1
+43,Karnataka,Sikkim,2,26,231,10,56.2
+43,Sikkim,Karnataka,2,26,358,10,82.5
+44,Delhi,Himachal Pradesh,1,21,460,10,107.4
+44,Himachal Pradesh,Delhi,1,28,447,10,114
+44,Delhi,Himachal Pradesh,2,14,400,10,92.3
+44,Himachal Pradesh,Delhi,2,21,387,10,91.3
+45,Uttar Pradesh,Punjab,1,30,438,10,109.4
+45,Punjab,Uttar Pradesh,1,18,269,10,66
+45,Uttar Pradesh,Punjab,2,23,378,10,100.5
+45,Punjab,Uttar Pradesh,2,14,222,10,55
+46,Gujarat,Kerala,1,31,311,10,75.5
+46,Kerala,Gujarat,1,8,316,10,78.1
+46,Gujarat,Kerala,2,27,264,10,65
+46,Kerala,Gujarat,2,26,256,10,58.2
+47,Railways,Rajasthan,1,14,255,10,66.2
+47,Rajasthan,Railways,1,32,450,10,104.4
+47,Railways,Rajasthan,2,32,466,10,111.4
+47,Rajasthan,Railways,2,25,390,10,89.4
+48,Rajasthan,Bihar,1,30,311,10,66.4
+48,Bihar,Rajasthan,1,12,382,10,100.5
+48,Rajasthan,Bihar,2,23,251,10,56.1
+48,Bihar,Rajasthan,2,30,322,10,82.2
+49,Delhi,Tripura,1,15,292,10,71.1
+49,Tripura,Delhi,1,16,271,10,66.2
+49,Delhi,Tripura,2,8,232,10,55.1
+49,Tripura,Delhi,2,12,224,10,51.4
+50,Mumbai,Assam,1,21,375,10,93.5
+50,Assam,Mumbai,1,11,475,10,113.5
+50,Mumbai,Assam,2,14,315,10,77.4
+50,Assam,Mumbai,2,29,415,10,100.1
+51,Kerala,Hyderabad,1,27,263,10,61.1
+51,Hyderabad,Kerala,1,27,400,10,102
+51,Kerala,Hyderabad,2,20,474,10,111.1
+51,Hyderabad,Kerala,2,20,340,10,86
+52,Mumbai,Kerala,1,22,223,10,53.2
+52,Kerala,Mumbai,1,15,458,10,111.1
+52,Mumbai,Kerala,2,15,434,10,109.2
+52,Kerala,Mumbai,2,8,398,10,97.4
+53,Arunachal Pradesh,Uttar Pradesh,1,22,467,10,114.1
+53,Uttar Pradesh,Arunachal Pradesh,1,15,314,10,76
+53,Arunachal Pradesh,Uttar Pradesh,2,18,420,10,97.2
+53,Uttar Pradesh,Arunachal Pradesh,2,11,267,10,65.3
+54,Jharkhand,Bihar,1,15,288,10,68.5
+54,Bihar,Jharkhand,1,21,283,10,67.1
+54,Jharkhand,Bihar,2,8,228,10,56.1
+54,Bihar,Jharkhand,2,14,223,10,55.3
+55,Meghalaya,Arunachal Pradesh,1,24,241,10,57.3
+55,Arunachal Pradesh,Meghalaya,1,13,457,10,121.3
+55,Meghalaya,Arunachal Pradesh,2,17,452,10,111.4
+55,Arunachal Pradesh,Meghalaya,2,31,397,10,93.1
+56,Haryana,Jharkhand,1,30,288,10,68.3
+56,Jharkhand,Haryana,1,11,281,10,69.5
+56,Haryana,Jharkhand,2,23,228,10,55.3
+56,Jharkhand,Haryana,2,29,221,10,51.2
+57,Goa,Uttarakhand,1,14,421,10,103.1
+57,Uttarakhand,Goa,1,15,222,10,54.4
+57,Goa,Uttarakhand,2,32,361,10,80.4
+57,Uttarakhand,Goa,2,11,446,10,107.4
+58,Meghalaya,Uttarakhand,1,21,379,10,92.2
+58,Uttarakhand,Meghalaya,1,29,400,10,93.4
+58,Meghalaya,Uttarakhand,2,14,319,10,74.1
+58,Uttarakhand,Meghalaya,2,22,340,10,78.3
+59,Assam,Bihar,1,12,343,10,78.2
+59,Bihar,Assam,1,15,386,10,90.5
+59,Assam,Bihar,2,30,283,10,62.5
+59,Bihar,Assam,2,8,326,10,81.3
+60,Andhra,Railways,1,26,478,10,114.1
+60,Railways,Andhra,1,21,451,10,107.4
+60,Andhra,Railways,2,19,418,10,98.2
+60,Railways,Andhra,2,14,391,10,98.4
+61,Vidarbha,Saurashtra,1,31,453,10,109.4
+61,Saurashtra,Vidarbha,1,21,271,10,65
+61,Vidarbha,Saurashtra,2,27,406,10,92.5
+61,Saurashtra,Vidarbha,2,14,482,10,122.4
+62,Andhra,Saurashtra,1,30,339,10,79
+62,Saurashtra,Andhra,1,11,415,10,104.2
+62,Andhra,Saurashtra,2,23,279,10,66.1
+62,Saurashtra,Andhra,2,29,355,10,80.3
+63,Rajasthan,Uttar Pradesh,1,14,455,10,115.1
+63,Uttar Pradesh,Rajasthan,1,9,481,10,128.2
+63,Rajasthan,Uttar Pradesh,2,32,395,10,95.2
+63,Uttar Pradesh,Rajasthan,2,27,421,10,97.5
+64,Himachal Pradesh,Jammu & Kashmir,1,19,437,10,107.3
+64,Jammu & Kashmir,Himachal Pradesh,1,28,226,10,50.1
+64,Himachal Pradesh,Jammu & Kashmir,2,12,377,10,92.2
+64,Jammu & Kashmir,Himachal Pradesh,2,21,437,10,101.2
+65,Nagaland,Goa,1,20,458,10,114.3
+65,Goa,Nagaland,1,23,399,10,98.4
+65,Nagaland,Goa,2,13,398,10,104
+65,Goa,Nagaland,2,16,339,10,84
+66,Kerala,Uttarakhand,1,32,289,10,63
+66,Uttarakhand,Kerala,1,28,437,10,104.2
+66,Kerala,Uttarakhand,2,25,229,10,48.2
+66,Uttarakhand,Kerala,2,21,377,10,96.2
+67,Goa,Meghalaya,1,32,260,10,59.3
+67,Meghalaya,Goa,1,10,378,10,91.2
+67,Goa,Meghalaya,2,25,471,10,112.4
+67,Meghalaya,Goa,2,28,318,10,73.5
+68,Services,Arunachal Pradesh,1,28,226,10,55.3
+68,Arunachal Pradesh,Services,1,32,274,10,68.2
+68,Services,Arunachal Pradesh,2,21,437,10,112.2
+68,Arunachal Pradesh,Services,2,28,227,10,53.2
+69,Goa,Mumbai,1,16,392,10,93
+69,Mumbai,Goa,1,25,355,10,82.5
+69,Goa,Mumbai,2,9,332,10,84.3
+69,Mumbai,Goa,2,18,295,10,68.2
+70,Jharkhand,Maharashtra,1,19,280,10,66.4
+70,Maharashtra,Jharkhand,1,24,309,10,77
+70,Jharkhand,Maharashtra,2,12,220,10,55.3
+70,Maharashtra,Jharkhand,2,17,249,10,58.5
+71,Mumbai,Haryana,1,30,259,10,58.5
+71,Haryana,Mumbai,1,15,363,10,85.3
+71,Mumbai,Haryana,2,26,483,10,119.4
+71,Haryana,Mumbai,2,8,303,10,74.2
+72,Tamil Nadu,Meghalaya,1,30,455,10,111.4
+72,Meghalaya,Tamil Nadu,1,29,378,10,88.4
+72,Tamil Nadu,Meghalaya,2,26,408,10,101
+72,Meghalaya,Tamil Nadu,2,22,318,10,75.4
+73,Tripura,Gujarat,1,27,444,10,102.3
+73,Gujarat,Tripura,1,28,308,10,69.5
+73,Tripura,Gujarat,2,20,384,10,87.1
+73,Gujarat,Tripura,2,21,248,10,54.5
+74,Railways,Arunachal Pradesh,1,31,314,10,73.1
+74,Arunachal Pradesh,Railways,1,23,410,10,98.4
+74,Railways,Arunachal Pradesh,2,24,254,10,55.1
+74,Arunachal Pradesh,Railways,2,16,350,10,87.3
+75,Arunachal Pradesh,Haryana,1,31,405,10,99
+75,Haryana,Arunachal Pradesh,1,13,309,10,77.3
+75,Arunachal Pradesh,Haryana,2,24,345,10,84.5
+75,Haryana,Arunachal Pradesh,2,31,249,10,55.5
+76,Punjab,Bengal,1,17,288,10,73.4
+76,Bengal,Punjab,1,15,336,10,82.1
+76,Punjab,Bengal,2,10,228,10,59
+76,Bengal,Punjab,2,8,276,10,66
+77,Chandigarh,Punjab,1,29,281,10,61
+77,Punjab,Chandigarh,1,30,483,10,119.3
+77,Chandigarh,Punjab,2,22,221,10,51.1
+77,Punjab,Chandigarh,2,23,423,10,103.3
+78,Nagaland,Madhya Pradesh,1,23,398,10,95.5
+78,Madhya Pradesh,Nagaland,1,17,353,10,91
+78,Nagaland,Madhya Pradesh,2,16,338,10,85.4
+78,Madhya Pradesh,Nagaland,2,10,293,10,76.4
+79,Goa,Jammu & Kashmir,1,31,489,10,119
+79,Jammu & Kashmir,Goa,1,9,434,10,109.2
+79,Goa,Jammu & Kashmir,2,24,429,10,107
+79,Jammu & Kashmir,Goa,2,27,374,10,88.2
+80,Puducherry,Madhya Pradesh,1,19,404,10,99.5
+80,Madhya Pradesh,Puducherry,1,18,244,10,62.1
+80,Puducherry,Madhya Pradesh,2,12,344,10,85.5
+80,Madhya Pradesh,Puducherry,2,11,455,10,113.5
+81,Jammu & Kashmir,Tamil Nadu,1,21,387,10,94.2
+81,Tamil Nadu,Jammu & Kashmir,1,29,489,10,118.3
+81,Jammu & Kashmir,Tamil Nadu,2,14,327,10,82.3
+81,Tamil Nadu,Jammu & Kashmir,2,22,429,10,111.1
+82,Jammu & Kashmir,Chandigarh,1,15,220,10,55.3
+82,Chandigarh,Jammu & Kashmir,1,27,320,10,73.2
+82,Jammu & Kashmir,Chandigarh,2,8,431,10,107.2
+82,Chandigarh,Jammu & Kashmir,2,20,260,10,60.4
+83,Meghalaya,Goa,1,17,383,10,95.3
+83,Goa,Meghalaya,1,25,487,10,114.5
+83,Meghalaya,Goa,2,10,323,10,80.3
+83,Goa,Meghalaya,2,18,427,10,101.3
+84,Hyderabad,Tripura,1,13,402,10,96.2
+84,Tripura,Hyderabad,1,24,231,10,53.2
+84,Hyderabad,Tripura,2,31,342,10,75.3
+84,Tripura,Hyderabad,2,17,442,10,105.4
+85,Delhi,Himachal Pradesh,1,13,236,10,60
+85,Himachal Pradesh,Delhi,1,21,386,10,92.1
+85,Delhi,Himachal Pradesh,2,31,447,10,108
+85,Himachal Pradesh,Delhi,2,14,326,10,76.3
+86,Odisha,Manipur,1,17,356,10,95
+86,Manipur,Odisha,1,18,333,10,83.1
+86,Odisha,Manipur,2,10,296,10,77.2
+86,Manipur,Odisha,2,14,286,10,70.2
+87,Puducherry,Vidarbha,1,12,276,10,65
+87,Vidarbha,Puducherry,1,12,333,10,84
+87,Puducherry,Vidarbha,2,30,487,10,114.4
+87,Vidarbha,Puducherry,2,30,273,10,62.3
+88,Jharkhand,Chhattisgarh,1,24,422,10,101.4
+88,Chhattisgarh,Jharkhand,1,19,489,10,126.1
+88,Jharkhand,Chhattisgarh,2,17,362,10,89.4
+88,Chhattisgarh,Jharkhand,2,12,429,10,108.2
+89,Uttar Pradesh,Tamil Nadu,1,15,294,10,73.2
+89,Tamil Nadu,Uttar Pradesh,1,12,234,10,57.4
+89,Uttar Pradesh,Tamil Nadu,2,8,234,10,60.5
+89,Tamil Nadu,Uttar Pradesh,2,30,445,10,108.2
+90,Goa,Assam,1,17,399,10,96
+90,Assam,Goa,1,13,442,10,109.1
+90,Goa,Assam,2,10,339,10,85.4
+90,Assam,Goa,2,31,382,10,86.4
+91,Odisha,Hyderabad,1,11,303,10,74.5
+91,Hyderabad,Odisha,1,31,408,10,104.5
+91,Odisha,Hyderabad,2,29,243,10,53.2
+91,Hyderabad,Odisha,2,24,348,10,87.3
+92,Jammu & Kashmir,Kerala,1,26,450,10,104.3
+92,Kerala,Jammu & Kashmir,1,13,404,10,93.4
+92,Jammu & Kashmir,Kerala,2,19,390,10,101.5
+92,Kerala,Jammu & Kashmir,2,31,344,10,79.2
+93,Tripura,Tamil Nadu,1,22,316,10,71
+93,Tamil Nadu,Tripura,1,20,400,10,95
+93,Tripura,Tamil Nadu,2,15,256,10,64.5
+93,Tamil Nadu,Tripura,2,13,340,10,82
+94,Jharkhand,Mumbai,1,16,283,10,67.2
+94,Mumbai,Jharkhand,1,18,275,10,65.1
+94,Jharkhand,Mumbai,2,9,223,10,54.3
+94,Mumbai,Jharkhand,2,14,228,10,54
+95,Bengal,Kerala,1,26,385,10,89.3
+95,Kerala,Bengal,1,27,447,10,111
+95,Bengal,Kerala,2,19,325,10,78.2
+95,Kerala,Bengal,2,20,387,10,98
+96,Hyderabad,Maharashtra,1,24,268,10,62.5
+96,Maharashtra,Hyderabad,1,16,446,10,111.3
+96,Hyderabad,Maharashtra,2,17,479,10,125.3
+96,Maharashtra,Hyderabad,2,9,386,10,97
+97,Mizoram,Uttar Pradesh,1,27,484,10,121.1
+97,Uttar Pradesh,Mizoram,1,25,441,10,108.5
+97,Mizoram,Uttar Pradesh,2,20,424,10,105.5
+97,Uttar Pradesh,Mizoram,2,18,381,10,97.5
+98,Gujarat,Mumbai,1,30,235,10,52.2
+98,Mumbai,Gujarat,1,23,255,10,58
+98,Gujarat,Mumbai,2,23,446,10,112.2
+98,Mumbai,Gujarat,2,16,466,10,120.2
+99,Odisha,Puducherry,1,18,250,10,61.4
+99,Puducherry,Odisha,1,25,445,10,105.2
+99,Odisha,Puducherry,2,11,461,10,117.4
+99,Puducherry,Odisha,2,18,385,10,99.5
+100,Tamil Nadu,Punjab,1,26,351,10,81.1
+100,Punjab,Tamil Nadu,1,30,483,10,121.5
+100,Tamil Nadu,Punjab,2,19,291,10,69.5
+100,Punjab,Tamil Nadu,2,23,423,10,105
+101,Goa,Puducherry,1,21,258,10,61.3
+101,Puducherry,Goa,1,18,270,10,68
+101,Goa,Puducherry,2,14,469,10,126.3
+101,Puducherry,Goa,2,11,481,10,124.1
+102,Andhra,Odisha,1,30,458,10,105.3
+102,Odisha,Andhra,1,16,264,10,65.3
+102,Andhra,Odisha,2,26,411,10,102.3
+102,Odisha,Andhra,2,12,488,10,127.2
+103,Haryana,Kerala,1,13,388,10,94
+103,Kerala,Haryana,1,18,365,10,93
+103,Haryana,Kerala,2,31,328,10,74.1
+103,Kerala,Haryana,2,11,305,10,74.2
+104,Haryana,Kerala,1,25,239,10,54.3
+104,Kerala,Haryana,1,31,289,10,66.4
+104,Haryana,Kerala,2,18,450,10,108.1
+104,Kerala,Haryana,2,24,229,10,54.3
+105,Tamil Nadu,Kerala,1,20,232,10,54
+105,Kerala,Tamil Nadu,1,19,484,10,119.4
+105,Tamil Nadu,Kerala,2,13,443,10,110.4
+105,Kerala,Tamil Nadu,2,12,424,10,103.5
+106,Maharashtra,Haryana,1,13,302,10,75
+106,Haryana,Maharashtra,1,24,483,10,118.5
+106,Maharashtra,Haryana,2,31,242,10,53
+106,Haryana,Maharashtra,2,17,423,10,106.4
+107,Tamil Nadu,Uttar Pradesh,1,19,223,10,54.3
+107,Uttar Pradesh,Tamil Nadu,1,22,292,10,69.2
+107,Tamil Nadu,Uttar Pradesh,2,12,434,10,111.3
+107,Uttar Pradesh,Tamil Nadu,2,15,232,10,54.3
+108,Arunachal Pradesh,Meghalaya,1,32,243,10,54.4
+108,Meghalaya,Arunachal Pradesh,1,17,403,10,94.3
+108,Arunachal Pradesh,Meghalaya,2,25,454,10,116.2
+108,Meghalaya,Arunachal Pradesh,2,13,356,10,92.1
+109,Hyderabad,Jharkhand,1,16,435,10,101.1
+109,Jharkhand,Hyderabad,1,32,456,10,104.3
+109,Hyderabad,Jharkhand,2,9,375,10,89.2
+109,Jharkhand,Hyderabad,2,25,396,10,87.3
+110,Assam,Delhi,1,26,433,10,104.4
+110,Delhi,Assam,1,17,306,10,73
+110,Assam,Delhi,2,19,373,10,85.2
+110,Delhi,Assam,2,10,246,10,57.3
+111,Haryana,Odisha,1,24,351,10,86.4
+111,Odisha,Haryana,1,15,462,10,112
+111,Haryana,Odisha,2,17,291,10,70
+111,Odisha,Haryana,2,8,402,10,100
+112,Railways,Chandigarh,1,21,367,10,94.3
+112,Chandigarh,Railways,1,22,478,10,123.2
+112,Railways,Chandigarh,2,14,307,10,76.4
+112,Chandigarh,Railways,2,15,418,10,107.3
+113,Gujarat,Tamil Nadu,1,12,296,10,77.1
+113,Tamil Nadu,Gujarat,1,29,393,10,92.5
+113,Gujarat,Tamil Nadu,2,30,236,10,55.2
+113,Tamil Nadu,Gujarat,2,22,333,10,79.3
+114,Chandigarh,Manipur,1,24,482,10,115.5
+114,Manipur,Chandigarh,1,21,425,10,101.2
+114,Chandigarh,Manipur,2,17,422,10,109.4
+114,Manipur,Chandigarh,2,14,365,10,85.3
+115,Mizoram,Himachal Pradesh,1,17,356,10,89.5
+115,Himachal Pradesh,Mizoram,1,16,410,10,93.2
+115,Mizoram,Himachal Pradesh,2,10,296,10,72.2
+115,Himachal Pradesh,Mizoram,2,9,350,10,90.1
+116,Railways,Nagaland,1,11,382,10,101.3
+116,Nagaland,Railways,1,10,438,10,115.1
+116,Railways,Nagaland,2,29,322,10,80
+116,Nagaland,Railways,2,28,378,10,93.4
+117,Madhya Pradesh,Punjab,1,14,278,10,76.1
+117,Punjab,Madhya Pradesh,1,8,344,10,84.2
+117,Madhya Pradesh,Punjab,2,32,489,10,117.5
+117,Punjab,Madhya Pradesh,2,26,284,10,65.1
+118,Himachal Pradesh,Bengal,1,27,300,10,73.2
+118,Bengal,Himachal Pradesh,1,19,316,10,71
+118,Himachal Pradesh,Bengal,2,20,240,10,55
+118,Bengal,Himachal Pradesh,2,12,256,10,60.1
+119,Baroda,Saurashtra,1,31,299,10,71.5
+119,Saurashtra,Baroda,1,24,246,10,56.4
+119,Baroda,Saurashtra,2,24,239,10,56.3
+119,Saurashtra,Baroda,2,17,457,10,110.3
+120,Haryana,Mizoram,1,22,436,10,108
+120,Mizoram,Haryana,1,20,237,10,51
+120,Haryana,Mizoram,2,15,376,10,97.5
+120,Mizoram,Haryana,2,13,448,10,113.4
+121,Tripura,Sikkim,1,22,395,10,95
+121,Sikkim,Tripura,1,30,364,10,90.2
+121,Tripura,Sikkim,2,15,335,10,82.5
+121,Sikkim,Tripura,2,23,304,10,77
+122,Sikkim,Goa,1,18,288,10,68.4
+122,Goa,Sikkim,1,21,260,10,62.5
+122,Sikkim,Goa,2,14,241,10,56.3
+122,Goa,Sikkim,2,14,471,10,114.5
+123,Himachal Pradesh,Rajasthan,1,24,474,10,116.5
+123,Rajasthan,Himachal Pradesh,1,25,352,10,83.4
+123,Himachal Pradesh,Rajasthan,2,17,414,10,104.2
+123,Rajasthan,Himachal Pradesh,2,18,292,10,70.3
+124,Railways,Maharashtra,1,14,371,10,93.3
+124,Maharashtra,Railways,1,8,435,10,109.2
+124,Railways,Maharashtra,2,32,311,10,69.4
+124,Maharashtra,Railways,2,26,375,10,88.4
+125,Arunachal Pradesh,Madhya Pradesh,1,23,464,10,112.4
+125,Madhya Pradesh,Arunachal Pradesh,1,23,332,10,79.5
+125,Arunachal Pradesh,Madhya Pradesh,2,16,404,10,96.3
+125,Madhya Pradesh,Arunachal Pradesh,2,16,272,10,63
+126,Hyderabad,Railways,1,21,301,10,67.1
+126,Railways,Hyderabad,1,9,243,10,63.5
+126,Hyderabad,Railways,2,14,241,10,57
+126,Railways,Hyderabad,2,27,454,10,110.3
+127,Manipur,Madhya Pradesh,1,14,443,10,108.5
+127,Madhya Pradesh,Manipur,1,8,382,10,102
+127,Manipur,Madhya Pradesh,2,32,383,10,83
+127,Madhya Pradesh,Manipur,2,26,322,10,76.5
+128,Puducherry,Mizoram,1,11,485,10,120.3
+128,Mizoram,Puducherry,1,13,387,10,90.4
+128,Puducherry,Mizoram,2,29,425,10,109.4
+128,Mizoram,Puducherry,2,31,327,10,74.3
+129,Mizoram,Hyderabad,1,22,225,10,52.3
+129,Hyderabad,Mizoram,1,18,439,10,107.1
+129,Mizoram,Hyderabad,2,15,436,10,112.2
+129,Hyderabad,Mizoram,2,11,379,10,93.5
+130,Jammu & Kashmir,Puducherry,1,27,462,10,119.1
+130,Puducherry,Jammu & Kashmir,1,14,363,10,88.3
+130,Jammu & Kashmir,Puducherry,2,20,402,10,97
+130,Puducherry,Jammu & Kashmir,2,32,303,10,69.5
+131,Services,Mumbai,1,15,466,10,114.3
+131,Mumbai,Services,1,32,364,10,87
+131,Services,Mumbai,2,8,406,10,106.1
+131,Mumbai,Services,2,25,304,10,72.5
+132,Rajasthan,Madhya Pradesh,1,14,351,10,86.4
+132,Madhya Pradesh,Rajasthan,1,16,232,10,60.3
+132,Rajasthan,Madhya Pradesh,2,32,291,10,66.3
+132,Madhya Pradesh,Rajasthan,2,9,443,10,119.3
+133,Gujarat,Maharashtra,1,29,426,10,106.4
+133,Maharashtra,Gujarat,1,21,379,10,94.3
+133,Gujarat,Maharashtra,2,22,366,10,90.1
+133,Maharashtra,Gujarat,2,14,319,10,78
+134,Himachal Pradesh,Railways,1,21,441,10,107.3
+134,Railways,Himachal Pradesh,1,12,232,10,57
+134,Himachal Pradesh,Railways,2,14,381,10,95.5
+134,Railways,Himachal Pradesh,2,30,443,10,112.4
+135,Gujarat,Tamil Nadu,1,28,399,10,96.1
+135,Tamil Nadu,Gujarat,1,31,469,10,110.2
+135,Gujarat,Tamil Nadu,2,21,339,10,81.1
+135,Tamil Nadu,Gujarat,2,24,409,10,97.3
+136,Nagaland,Tripura,1,9,444,10,112
+136,Tripura,Nagaland,1,14,386,10,93
+136,Nagaland,Tripura,2,27,384,10,93
+136,Tripura,Nagaland,2,32,326,10,75.2
+137,Vidarbha,Chandigarh,1,20,390,10,95.1
+137,Chandigarh,Vidarbha,1,13,418,10,103.3
+137,Vidarbha,Chandigarh,2,13,330,10,78.4
+137,Chandigarh,Vidarbha,2,31,358,10,81.2
+138,Odisha,Arunachal Pradesh,1,8,458,10,116.1
+138,Arunachal Pradesh,Odisha,1,17,281,10,65.4
+138,Odisha,Arunachal Pradesh,2,26,398,10,95
+138,Arunachal Pradesh,Odisha,2,10,221,10,51.4

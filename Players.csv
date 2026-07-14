@@ -1,0 +1,913 @@
+PlayerID,Player,Team,Role,BattingStyle,SquadNo,StateCode,PlayerName
+1,Gautham_AP,Andhra,Batter,Right Hand,1,AP,Gautham_AP
+2,Arjun_AP,Andhra,Batter,Right Hand,2,AP,Arjun_AP
+3,Ishan_AP,Andhra,Batter,Right Hand,3,AP,Ishan_AP
+4,Pranav_AP,Andhra,Batter,Right Hand,4,AP,Pranav_AP
+5,Dev_AP,Andhra,Batter,Right Hand,5,AP,Dev_AP
+6,Karthik_AP,Andhra,Batter,Right Hand,6,AP,Karthik_AP
+7,Nikhil_AP,Andhra,Batter,Right Hand,7,AP,Nikhil_AP
+8,Rohan_AP,Andhra,Batter,Right Hand,8,AP,Rohan_AP
+9,Aditya_AP,Andhra,Bowler,Right Hand,9,AP,Aditya_AP
+10,Yash_AP,Andhra,Bowler,Right Hand,10,AP,Yash_AP
+11,Manav_AP,Andhra,Bowler,Right Hand,11,AP,Manav_AP
+12,Sarthak_AP,Andhra,Bowler,Right Hand,12,AP,Sarthak_AP
+13,Harsh_AP,Andhra,Bowler,Right Hand,13,AP,Harsh_AP
+14,Neeraj_AP,Andhra,Bowler,Right Hand,14,AP,Neeraj_AP
+15,Vivek_AP,Andhra,Bowler,Right Hand,15,AP,Vivek_AP
+16,Sai_AP,Andhra,All-rounder,Right Hand,16,AP,Sai_AP
+17,Rahul_AP,Andhra,All-rounder,Right Hand,17,AP,Rahul_AP
+18,Aniket_AP,Andhra,All-rounder,Right Hand,18,AP,Aniket_AP
+19,Shreyas_AP,Andhra,All-rounder,Right Hand,19,AP,Shreyas_AP
+20,Abhinav_AP,Andhra,All-rounder,Right Hand,20,AP,Abhinav_AP
+21,Gautham_AP,Andhra,All-rounder,Right Hand,21,AP,Gautham_AP
+22,Arjun_AP,Andhra,All-rounder,Right Hand,22,AP,Arjun_AP
+23,Ishan_AP,Andhra,Wicket Keeper,Right Hand,23,AP,Ishan_AP
+24,Pranav_AP,Andhra,Wicket Keeper,Right Hand,24,AP,Pranav_AP
+25,Gautham_AR,Arunachal Pradesh,Batter,Right Hand,1,AR,Gautham_AR
+26,Arjun_AR,Arunachal Pradesh,Batter,Right Hand,2,AR,Arjun_AR
+27,Ishan_AR,Arunachal Pradesh,Batter,Right Hand,3,AR,Ishan_AR
+28,Pranav_AR,Arunachal Pradesh,Batter,Right Hand,4,AR,Pranav_AR
+29,Dev_AR,Arunachal Pradesh,Batter,Right Hand,5,AR,Dev_AR
+30,Karthik_AR,Arunachal Pradesh,Batter,Right Hand,6,AR,Karthik_AR
+31,Nikhil_AR,Arunachal Pradesh,Batter,Right Hand,7,AR,Nikhil_AR
+32,Rohan_AR,Arunachal Pradesh,Batter,Right Hand,8,AR,Rohan_AR
+33,Aditya_AR,Arunachal Pradesh,Bowler,Right Hand,9,AR,Aditya_AR
+34,Yash_AR,Arunachal Pradesh,Bowler,Right Hand,10,AR,Yash_AR
+35,Manav_AR,Arunachal Pradesh,Bowler,Right Hand,11,AR,Manav_AR
+36,Sarthak_AR,Arunachal Pradesh,Bowler,Right Hand,12,AR,Sarthak_AR
+37,Harsh_AR,Arunachal Pradesh,Bowler,Right Hand,13,AR,Harsh_AR
+38,Neeraj_AR,Arunachal Pradesh,Bowler,Right Hand,14,AR,Neeraj_AR
+39,Vivek_AR,Arunachal Pradesh,Bowler,Right Hand,15,AR,Vivek_AR
+40,Sai_AR,Arunachal Pradesh,All-rounder,Right Hand,16,AR,Sai_AR
+41,Rahul_AR,Arunachal Pradesh,All-rounder,Right Hand,17,AR,Rahul_AR
+42,Aniket_AR,Arunachal Pradesh,All-rounder,Right Hand,18,AR,Aniket_AR
+43,Shreyas_AR,Arunachal Pradesh,All-rounder,Right Hand,19,AR,Shreyas_AR
+44,Abhinav_AR,Arunachal Pradesh,All-rounder,Right Hand,20,AR,Abhinav_AR
+45,Gautham_AR,Arunachal Pradesh,All-rounder,Right Hand,21,AR,Gautham_AR
+46,Arjun_AR,Arunachal Pradesh,All-rounder,Right Hand,22,AR,Arjun_AR
+47,Ishan_AR,Arunachal Pradesh,Wicket Keeper,Right Hand,23,AR,Ishan_AR
+48,Pranav_AR,Arunachal Pradesh,Wicket Keeper,Right Hand,24,AR,Pranav_AR
+49,Gautham_AS,Assam,Batter,Right Hand,1,AS,Gautham_AS
+50,Arjun_AS,Assam,Batter,Right Hand,2,AS,Arjun_AS
+51,Ishan_AS,Assam,Batter,Right Hand,3,AS,Ishan_AS
+52,Pranav_AS,Assam,Batter,Right Hand,4,AS,Pranav_AS
+53,Dev_AS,Assam,Batter,Right Hand,5,AS,Dev_AS
+54,Karthik_AS,Assam,Batter,Right Hand,6,AS,Karthik_AS
+55,Nikhil_AS,Assam,Batter,Right Hand,7,AS,Nikhil_AS
+56,Rohan_AS,Assam,Batter,Right Hand,8,AS,Rohan_AS
+57,Aditya_AS,Assam,Bowler,Right Hand,9,AS,Aditya_AS
+58,Yash_AS,Assam,Bowler,Right Hand,10,AS,Yash_AS
+59,Manav_AS,Assam,Bowler,Right Hand,11,AS,Manav_AS
+60,Sarthak_AS,Assam,Bowler,Right Hand,12,AS,Sarthak_AS
+61,Harsh_AS,Assam,Bowler,Right Hand,13,AS,Harsh_AS
+62,Neeraj_AS,Assam,Bowler,Right Hand,14,AS,Neeraj_AS
+63,Vivek_AS,Assam,Bowler,Right Hand,15,AS,Vivek_AS
+64,Sai_AS,Assam,All-rounder,Right Hand,16,AS,Sai_AS
+65,Rahul_AS,Assam,All-rounder,Right Hand,17,AS,Rahul_AS
+66,Aniket_AS,Assam,All-rounder,Right Hand,18,AS,Aniket_AS
+67,Shreyas_AS,Assam,All-rounder,Right Hand,19,AS,Shreyas_AS
+68,Abhinav_AS,Assam,All-rounder,Right Hand,20,AS,Abhinav_AS
+69,Gautham_AS,Assam,All-rounder,Right Hand,21,AS,Gautham_AS
+70,Arjun_AS,Assam,All-rounder,Right Hand,22,AS,Arjun_AS
+71,Ishan_AS,Assam,Wicket Keeper,Right Hand,23,AS,Ishan_AS
+72,Pranav_AS,Assam,Wicket Keeper,Right Hand,24,AS,Pranav_AS
+73,Gautham_BR,Baroda,Batter,Right Hand,1,BR,Gautham_BR
+74,Arjun_BR,Baroda,Batter,Right Hand,2,BR,Arjun_BR
+75,Ishan_BR,Baroda,Batter,Right Hand,3,BR,Ishan_BR
+76,Pranav_BR,Baroda,Batter,Right Hand,4,BR,Pranav_BR
+77,Dev_BR,Baroda,Batter,Right Hand,5,BR,Dev_BR
+78,Karthik_BR,Baroda,Batter,Right Hand,6,BR,Karthik_BR
+79,Nikhil_BR,Baroda,Batter,Right Hand,7,BR,Nikhil_BR
+80,Rohan_BR,Baroda,Batter,Right Hand,8,BR,Rohan_BR
+81,Aditya_BR,Baroda,Bowler,Right Hand,9,BR,Aditya_BR
+82,Yash_BR,Baroda,Bowler,Right Hand,10,BR,Yash_BR
+83,Manav_BR,Baroda,Bowler,Right Hand,11,BR,Manav_BR
+84,Sarthak_BR,Baroda,Bowler,Right Hand,12,BR,Sarthak_BR
+85,Harsh_BR,Baroda,Bowler,Right Hand,13,BR,Harsh_BR
+86,Neeraj_BR,Baroda,Bowler,Right Hand,14,BR,Neeraj_BR
+87,Vivek_BR,Baroda,Bowler,Right Hand,15,BR,Vivek_BR
+88,Sai_BR,Baroda,All-rounder,Right Hand,16,BR,Sai_BR
+89,Rahul_BR,Baroda,All-rounder,Right Hand,17,BR,Rahul_BR
+90,Aniket_BR,Baroda,All-rounder,Right Hand,18,BR,Aniket_BR
+91,Shreyas_BR,Baroda,All-rounder,Right Hand,19,BR,Shreyas_BR
+92,Abhinav_BR,Baroda,All-rounder,Right Hand,20,BR,Abhinav_BR
+93,Gautham_BR,Baroda,All-rounder,Right Hand,21,BR,Gautham_BR
+94,Arjun_BR,Baroda,All-rounder,Right Hand,22,BR,Arjun_BR
+95,Ishan_BR,Baroda,Wicket Keeper,Right Hand,23,BR,Ishan_BR
+96,Pranav_BR,Baroda,Wicket Keeper,Right Hand,24,BR,Pranav_BR
+97,Gautham_BG,Bengal,Batter,Right Hand,1,BG,Gautham_BG
+98,Arjun_BG,Bengal,Batter,Right Hand,2,BG,Arjun_BG
+99,Ishan_BG,Bengal,Batter,Right Hand,3,BG,Ishan_BG
+100,Pranav_BG,Bengal,Batter,Right Hand,4,BG,Pranav_BG
+101,Dev_BG,Bengal,Batter,Right Hand,5,BG,Dev_BG
+102,Karthik_BG,Bengal,Batter,Right Hand,6,BG,Karthik_BG
+103,Nikhil_BG,Bengal,Batter,Right Hand,7,BG,Nikhil_BG
+104,Rohan_BG,Bengal,Batter,Right Hand,8,BG,Rohan_BG
+105,Aditya_BG,Bengal,Bowler,Right Hand,9,BG,Aditya_BG
+106,Yash_BG,Bengal,Bowler,Right Hand,10,BG,Yash_BG
+107,Manav_BG,Bengal,Bowler,Right Hand,11,BG,Manav_BG
+108,Sarthak_BG,Bengal,Bowler,Right Hand,12,BG,Sarthak_BG
+109,Harsh_BG,Bengal,Bowler,Right Hand,13,BG,Harsh_BG
+110,Neeraj_BG,Bengal,Bowler,Right Hand,14,BG,Neeraj_BG
+111,Vivek_BG,Bengal,Bowler,Right Hand,15,BG,Vivek_BG
+112,Sai_BG,Bengal,All-rounder,Right Hand,16,BG,Sai_BG
+113,Rahul_BG,Bengal,All-rounder,Right Hand,17,BG,Rahul_BG
+114,Aniket_BG,Bengal,All-rounder,Right Hand,18,BG,Aniket_BG
+115,Shreyas_BG,Bengal,All-rounder,Right Hand,19,BG,Shreyas_BG
+116,Abhinav_BG,Bengal,All-rounder,Right Hand,20,BG,Abhinav_BG
+117,Gautham_BG,Bengal,All-rounder,Right Hand,21,BG,Gautham_BG
+118,Arjun_BG,Bengal,All-rounder,Right Hand,22,BG,Arjun_BG
+119,Ishan_BG,Bengal,Wicket Keeper,Right Hand,23,BG,Ishan_BG
+120,Pranav_BG,Bengal,Wicket Keeper,Right Hand,24,BG,Pranav_BG
+121,Gautham_BH,Bihar,Batter,Right Hand,1,BH,Gautham_BH
+122,Arjun_BH,Bihar,Batter,Right Hand,2,BH,Arjun_BH
+123,Ishan_BH,Bihar,Batter,Right Hand,3,BH,Ishan_BH
+124,Pranav_BH,Bihar,Batter,Right Hand,4,BH,Pranav_BH
+125,Dev_BH,Bihar,Batter,Right Hand,5,BH,Dev_BH
+126,Karthik_BH,Bihar,Batter,Right Hand,6,BH,Karthik_BH
+127,Nikhil_BH,Bihar,Batter,Right Hand,7,BH,Nikhil_BH
+128,Rohan_BH,Bihar,Batter,Right Hand,8,BH,Rohan_BH
+129,Aditya_BH,Bihar,Bowler,Right Hand,9,BH,Aditya_BH
+130,Yash_BH,Bihar,Bowler,Right Hand,10,BH,Yash_BH
+131,Manav_BH,Bihar,Bowler,Right Hand,11,BH,Manav_BH
+132,Sarthak_BH,Bihar,Bowler,Right Hand,12,BH,Sarthak_BH
+133,Harsh_BH,Bihar,Bowler,Right Hand,13,BH,Harsh_BH
+134,Neeraj_BH,Bihar,Bowler,Right Hand,14,BH,Neeraj_BH
+135,Vivek_BH,Bihar,Bowler,Right Hand,15,BH,Vivek_BH
+136,Sai_BH,Bihar,All-rounder,Right Hand,16,BH,Sai_BH
+137,Rahul_BH,Bihar,All-rounder,Right Hand,17,BH,Rahul_BH
+138,Aniket_BH,Bihar,All-rounder,Right Hand,18,BH,Aniket_BH
+139,Shreyas_BH,Bihar,All-rounder,Right Hand,19,BH,Shreyas_BH
+140,Abhinav_BH,Bihar,All-rounder,Right Hand,20,BH,Abhinav_BH
+141,Gautham_BH,Bihar,All-rounder,Right Hand,21,BH,Gautham_BH
+142,Arjun_BH,Bihar,All-rounder,Right Hand,22,BH,Arjun_BH
+143,Ishan_BH,Bihar,Wicket Keeper,Right Hand,23,BH,Ishan_BH
+144,Pranav_BH,Bihar,Wicket Keeper,Right Hand,24,BH,Pranav_BH
+145,Gautham_CH,Chandigarh,Batter,Right Hand,1,CH,Gautham_CH
+146,Arjun_CH,Chandigarh,Batter,Right Hand,2,CH,Arjun_CH
+147,Ishan_CH,Chandigarh,Batter,Right Hand,3,CH,Ishan_CH
+148,Pranav_CH,Chandigarh,Batter,Right Hand,4,CH,Pranav_CH
+149,Dev_CH,Chandigarh,Batter,Right Hand,5,CH,Dev_CH
+150,Karthik_CH,Chandigarh,Batter,Right Hand,6,CH,Karthik_CH
+151,Nikhil_CH,Chandigarh,Batter,Right Hand,7,CH,Nikhil_CH
+152,Rohan_CH,Chandigarh,Batter,Right Hand,8,CH,Rohan_CH
+153,Aditya_CH,Chandigarh,Bowler,Right Hand,9,CH,Aditya_CH
+154,Yash_CH,Chandigarh,Bowler,Right Hand,10,CH,Yash_CH
+155,Manav_CH,Chandigarh,Bowler,Right Hand,11,CH,Manav_CH
+156,Sarthak_CH,Chandigarh,Bowler,Right Hand,12,CH,Sarthak_CH
+157,Harsh_CH,Chandigarh,Bowler,Right Hand,13,CH,Harsh_CH
+158,Neeraj_CH,Chandigarh,Bowler,Right Hand,14,CH,Neeraj_CH
+159,Vivek_CH,Chandigarh,Bowler,Right Hand,15,CH,Vivek_CH
+160,Sai_CH,Chandigarh,All-rounder,Right Hand,16,CH,Sai_CH
+161,Rahul_CH,Chandigarh,All-rounder,Right Hand,17,CH,Rahul_CH
+162,Aniket_CH,Chandigarh,All-rounder,Right Hand,18,CH,Aniket_CH
+163,Shreyas_CH,Chandigarh,All-rounder,Right Hand,19,CH,Shreyas_CH
+164,Abhinav_CH,Chandigarh,All-rounder,Right Hand,20,CH,Abhinav_CH
+165,Gautham_CH,Chandigarh,All-rounder,Right Hand,21,CH,Gautham_CH
+166,Arjun_CH,Chandigarh,All-rounder,Right Hand,22,CH,Arjun_CH
+167,Ishan_CH,Chandigarh,Wicket Keeper,Right Hand,23,CH,Ishan_CH
+168,Pranav_CH,Chandigarh,Wicket Keeper,Right Hand,24,CH,Pranav_CH
+169,Gautham_CG,Chhattisgarh,Batter,Right Hand,1,CG,Gautham_CG
+170,Arjun_CG,Chhattisgarh,Batter,Right Hand,2,CG,Arjun_CG
+171,Ishan_CG,Chhattisgarh,Batter,Right Hand,3,CG,Ishan_CG
+172,Pranav_CG,Chhattisgarh,Batter,Right Hand,4,CG,Pranav_CG
+173,Dev_CG,Chhattisgarh,Batter,Right Hand,5,CG,Dev_CG
+174,Karthik_CG,Chhattisgarh,Batter,Right Hand,6,CG,Karthik_CG
+175,Nikhil_CG,Chhattisgarh,Batter,Right Hand,7,CG,Nikhil_CG
+176,Rohan_CG,Chhattisgarh,Batter,Right Hand,8,CG,Rohan_CG
+177,Aditya_CG,Chhattisgarh,Bowler,Right Hand,9,CG,Aditya_CG
+178,Yash_CG,Chhattisgarh,Bowler,Right Hand,10,CG,Yash_CG
+179,Manav_CG,Chhattisgarh,Bowler,Right Hand,11,CG,Manav_CG
+180,Sarthak_CG,Chhattisgarh,Bowler,Right Hand,12,CG,Sarthak_CG
+181,Harsh_CG,Chhattisgarh,Bowler,Right Hand,13,CG,Harsh_CG
+182,Neeraj_CG,Chhattisgarh,Bowler,Right Hand,14,CG,Neeraj_CG
+183,Vivek_CG,Chhattisgarh,Bowler,Right Hand,15,CG,Vivek_CG
+184,Sai_CG,Chhattisgarh,All-rounder,Right Hand,16,CG,Sai_CG
+185,Rahul_CG,Chhattisgarh,All-rounder,Right Hand,17,CG,Rahul_CG
+186,Aniket_CG,Chhattisgarh,All-rounder,Right Hand,18,CG,Aniket_CG
+187,Shreyas_CG,Chhattisgarh,All-rounder,Right Hand,19,CG,Shreyas_CG
+188,Abhinav_CG,Chhattisgarh,All-rounder,Right Hand,20,CG,Abhinav_CG
+189,Gautham_CG,Chhattisgarh,All-rounder,Right Hand,21,CG,Gautham_CG
+190,Arjun_CG,Chhattisgarh,All-rounder,Right Hand,22,CG,Arjun_CG
+191,Ishan_CG,Chhattisgarh,Wicket Keeper,Right Hand,23,CG,Ishan_CG
+192,Pranav_CG,Chhattisgarh,Wicket Keeper,Right Hand,24,CG,Pranav_CG
+193,Gautham_DL,Delhi,Batter,Right Hand,1,DL,Gautham_DL
+194,Arjun_DL,Delhi,Batter,Right Hand,2,DL,Arjun_DL
+195,Ishan_DL,Delhi,Batter,Right Hand,3,DL,Ishan_DL
+196,Pranav_DL,Delhi,Batter,Right Hand,4,DL,Pranav_DL
+197,Dev_DL,Delhi,Batter,Right Hand,5,DL,Dev_DL
+198,Karthik_DL,Delhi,Batter,Right Hand,6,DL,Karthik_DL
+199,Nikhil_DL,Delhi,Batter,Right Hand,7,DL,Nikhil_DL
+200,Rohan_DL,Delhi,Batter,Right Hand,8,DL,Rohan_DL
+201,Aditya_DL,Delhi,Bowler,Right Hand,9,DL,Aditya_DL
+202,Yash_DL,Delhi,Bowler,Right Hand,10,DL,Yash_DL
+203,Manav_DL,Delhi,Bowler,Right Hand,11,DL,Manav_DL
+204,Sarthak_DL,Delhi,Bowler,Right Hand,12,DL,Sarthak_DL
+205,Harsh_DL,Delhi,Bowler,Right Hand,13,DL,Harsh_DL
+206,Neeraj_DL,Delhi,Bowler,Right Hand,14,DL,Neeraj_DL
+207,Vivek_DL,Delhi,Bowler,Right Hand,15,DL,Vivek_DL
+208,Sai_DL,Delhi,All-rounder,Right Hand,16,DL,Sai_DL
+209,Rahul_DL,Delhi,All-rounder,Right Hand,17,DL,Rahul_DL
+210,Aniket_DL,Delhi,All-rounder,Right Hand,18,DL,Aniket_DL
+211,Shreyas_DL,Delhi,All-rounder,Right Hand,19,DL,Shreyas_DL
+212,Abhinav_DL,Delhi,All-rounder,Right Hand,20,DL,Abhinav_DL
+213,Gautham_DL,Delhi,All-rounder,Right Hand,21,DL,Gautham_DL
+214,Arjun_DL,Delhi,All-rounder,Right Hand,22,DL,Arjun_DL
+215,Ishan_DL,Delhi,Wicket Keeper,Right Hand,23,DL,Ishan_DL
+216,Pranav_DL,Delhi,Wicket Keeper,Right Hand,24,DL,Pranav_DL
+217,Gautham_GA,Goa,Batter,Right Hand,1,GA,Gautham_GA
+218,Arjun_GA,Goa,Batter,Right Hand,2,GA,Arjun_GA
+219,Ishan_GA,Goa,Batter,Right Hand,3,GA,Ishan_GA
+220,Pranav_GA,Goa,Batter,Right Hand,4,GA,Pranav_GA
+221,Dev_GA,Goa,Batter,Right Hand,5,GA,Dev_GA
+222,Karthik_GA,Goa,Batter,Right Hand,6,GA,Karthik_GA
+223,Nikhil_GA,Goa,Batter,Right Hand,7,GA,Nikhil_GA
+224,Rohan_GA,Goa,Batter,Right Hand,8,GA,Rohan_GA
+225,Aditya_GA,Goa,Bowler,Right Hand,9,GA,Aditya_GA
+226,Yash_GA,Goa,Bowler,Right Hand,10,GA,Yash_GA
+227,Manav_GA,Goa,Bowler,Right Hand,11,GA,Manav_GA
+228,Sarthak_GA,Goa,Bowler,Right Hand,12,GA,Sarthak_GA
+229,Harsh_GA,Goa,Bowler,Right Hand,13,GA,Harsh_GA
+230,Neeraj_GA,Goa,Bowler,Right Hand,14,GA,Neeraj_GA
+231,Vivek_GA,Goa,Bowler,Right Hand,15,GA,Vivek_GA
+232,Sai_GA,Goa,All-rounder,Right Hand,16,GA,Sai_GA
+233,Rahul_GA,Goa,All-rounder,Right Hand,17,GA,Rahul_GA
+234,Aniket_GA,Goa,All-rounder,Right Hand,18,GA,Aniket_GA
+235,Shreyas_GA,Goa,All-rounder,Right Hand,19,GA,Shreyas_GA
+236,Abhinav_GA,Goa,All-rounder,Right Hand,20,GA,Abhinav_GA
+237,Gautham_GA,Goa,All-rounder,Right Hand,21,GA,Gautham_GA
+238,Arjun_GA,Goa,All-rounder,Right Hand,22,GA,Arjun_GA
+239,Ishan_GA,Goa,Wicket Keeper,Right Hand,23,GA,Ishan_GA
+240,Pranav_GA,Goa,Wicket Keeper,Right Hand,24,GA,Pranav_GA
+241,Gautham_GJ,Gujarat,Batter,Right Hand,1,GJ,Gautham_GJ
+242,Arjun_GJ,Gujarat,Batter,Right Hand,2,GJ,Arjun_GJ
+243,Ishan_GJ,Gujarat,Batter,Right Hand,3,GJ,Ishan_GJ
+244,Pranav_GJ,Gujarat,Batter,Right Hand,4,GJ,Pranav_GJ
+245,Dev_GJ,Gujarat,Batter,Right Hand,5,GJ,Dev_GJ
+246,Karthik_GJ,Gujarat,Batter,Right Hand,6,GJ,Karthik_GJ
+247,Nikhil_GJ,Gujarat,Batter,Right Hand,7,GJ,Nikhil_GJ
+248,Rohan_GJ,Gujarat,Batter,Right Hand,8,GJ,Rohan_GJ
+249,Aditya_GJ,Gujarat,Bowler,Right Hand,9,GJ,Aditya_GJ
+250,Yash_GJ,Gujarat,Bowler,Right Hand,10,GJ,Yash_GJ
+251,Manav_GJ,Gujarat,Bowler,Right Hand,11,GJ,Manav_GJ
+252,Sarthak_GJ,Gujarat,Bowler,Right Hand,12,GJ,Sarthak_GJ
+253,Harsh_GJ,Gujarat,Bowler,Right Hand,13,GJ,Harsh_GJ
+254,Neeraj_GJ,Gujarat,Bowler,Right Hand,14,GJ,Neeraj_GJ
+255,Vivek_GJ,Gujarat,Bowler,Right Hand,15,GJ,Vivek_GJ
+256,Sai_GJ,Gujarat,All-rounder,Right Hand,16,GJ,Sai_GJ
+257,Rahul_GJ,Gujarat,All-rounder,Right Hand,17,GJ,Rahul_GJ
+258,Aniket_GJ,Gujarat,All-rounder,Right Hand,18,GJ,Aniket_GJ
+259,Shreyas_GJ,Gujarat,All-rounder,Right Hand,19,GJ,Shreyas_GJ
+260,Abhinav_GJ,Gujarat,All-rounder,Right Hand,20,GJ,Abhinav_GJ
+261,Gautham_GJ,Gujarat,All-rounder,Right Hand,21,GJ,Gautham_GJ
+262,Arjun_GJ,Gujarat,All-rounder,Right Hand,22,GJ,Arjun_GJ
+263,Ishan_GJ,Gujarat,Wicket Keeper,Right Hand,23,GJ,Ishan_GJ
+264,Pranav_GJ,Gujarat,Wicket Keeper,Right Hand,24,GJ,Pranav_GJ
+265,Gautham_HR,Haryana,Batter,Right Hand,1,HR,Gautham_HR
+266,Arjun_HR,Haryana,Batter,Right Hand,2,HR,Arjun_HR
+267,Ishan_HR,Haryana,Batter,Right Hand,3,HR,Ishan_HR
+268,Pranav_HR,Haryana,Batter,Right Hand,4,HR,Pranav_HR
+269,Dev_HR,Haryana,Batter,Right Hand,5,HR,Dev_HR
+270,Karthik_HR,Haryana,Batter,Right Hand,6,HR,Karthik_HR
+271,Nikhil_HR,Haryana,Batter,Right Hand,7,HR,Nikhil_HR
+272,Rohan_HR,Haryana,Batter,Right Hand,8,HR,Rohan_HR
+273,Aditya_HR,Haryana,Bowler,Right Hand,9,HR,Aditya_HR
+274,Yash_HR,Haryana,Bowler,Right Hand,10,HR,Yash_HR
+275,Manav_HR,Haryana,Bowler,Right Hand,11,HR,Manav_HR
+276,Sarthak_HR,Haryana,Bowler,Right Hand,12,HR,Sarthak_HR
+277,Harsh_HR,Haryana,Bowler,Right Hand,13,HR,Harsh_HR
+278,Neeraj_HR,Haryana,Bowler,Right Hand,14,HR,Neeraj_HR
+279,Vivek_HR,Haryana,Bowler,Right Hand,15,HR,Vivek_HR
+280,Sai_HR,Haryana,All-rounder,Right Hand,16,HR,Sai_HR
+281,Rahul_HR,Haryana,All-rounder,Right Hand,17,HR,Rahul_HR
+282,Aniket_HR,Haryana,All-rounder,Right Hand,18,HR,Aniket_HR
+283,Shreyas_HR,Haryana,All-rounder,Right Hand,19,HR,Shreyas_HR
+284,Abhinav_HR,Haryana,All-rounder,Right Hand,20,HR,Abhinav_HR
+285,Gautham_HR,Haryana,All-rounder,Right Hand,21,HR,Gautham_HR
+286,Arjun_HR,Haryana,All-rounder,Right Hand,22,HR,Arjun_HR
+287,Ishan_HR,Haryana,Wicket Keeper,Right Hand,23,HR,Ishan_HR
+288,Pranav_HR,Haryana,Wicket Keeper,Right Hand,24,HR,Pranav_HR
+289,Gautham_HP,Himachal Pradesh,Batter,Right Hand,1,HP,Gautham_HP
+290,Arjun_HP,Himachal Pradesh,Batter,Right Hand,2,HP,Arjun_HP
+291,Ishan_HP,Himachal Pradesh,Batter,Right Hand,3,HP,Ishan_HP
+292,Pranav_HP,Himachal Pradesh,Batter,Right Hand,4,HP,Pranav_HP
+293,Dev_HP,Himachal Pradesh,Batter,Right Hand,5,HP,Dev_HP
+294,Karthik_HP,Himachal Pradesh,Batter,Right Hand,6,HP,Karthik_HP
+295,Nikhil_HP,Himachal Pradesh,Batter,Right Hand,7,HP,Nikhil_HP
+296,Rohan_HP,Himachal Pradesh,Batter,Right Hand,8,HP,Rohan_HP
+297,Aditya_HP,Himachal Pradesh,Bowler,Right Hand,9,HP,Aditya_HP
+298,Yash_HP,Himachal Pradesh,Bowler,Right Hand,10,HP,Yash_HP
+299,Manav_HP,Himachal Pradesh,Bowler,Right Hand,11,HP,Manav_HP
+300,Sarthak_HP,Himachal Pradesh,Bowler,Right Hand,12,HP,Sarthak_HP
+301,Harsh_HP,Himachal Pradesh,Bowler,Right Hand,13,HP,Harsh_HP
+302,Neeraj_HP,Himachal Pradesh,Bowler,Right Hand,14,HP,Neeraj_HP
+303,Vivek_HP,Himachal Pradesh,Bowler,Right Hand,15,HP,Vivek_HP
+304,Sai_HP,Himachal Pradesh,All-rounder,Right Hand,16,HP,Sai_HP
+305,Rahul_HP,Himachal Pradesh,All-rounder,Right Hand,17,HP,Rahul_HP
+306,Aniket_HP,Himachal Pradesh,All-rounder,Right Hand,18,HP,Aniket_HP
+307,Shreyas_HP,Himachal Pradesh,All-rounder,Right Hand,19,HP,Shreyas_HP
+308,Abhinav_HP,Himachal Pradesh,All-rounder,Right Hand,20,HP,Abhinav_HP
+309,Gautham_HP,Himachal Pradesh,All-rounder,Right Hand,21,HP,Gautham_HP
+310,Arjun_HP,Himachal Pradesh,All-rounder,Right Hand,22,HP,Arjun_HP
+311,Ishan_HP,Himachal Pradesh,Wicket Keeper,Right Hand,23,HP,Ishan_HP
+312,Pranav_HP,Himachal Pradesh,Wicket Keeper,Right Hand,24,HP,Pranav_HP
+313,Gautham_HY,Hyderabad,Batter,Right Hand,1,HY,Gautham_HY
+314,Arjun_HY,Hyderabad,Batter,Right Hand,2,HY,Arjun_HY
+315,Ishan_HY,Hyderabad,Batter,Right Hand,3,HY,Ishan_HY
+316,Pranav_HY,Hyderabad,Batter,Right Hand,4,HY,Pranav_HY
+317,Dev_HY,Hyderabad,Batter,Right Hand,5,HY,Dev_HY
+318,Karthik_HY,Hyderabad,Batter,Right Hand,6,HY,Karthik_HY
+319,Nikhil_HY,Hyderabad,Batter,Right Hand,7,HY,Nikhil_HY
+320,Rohan_HY,Hyderabad,Batter,Right Hand,8,HY,Rohan_HY
+321,Aditya_HY,Hyderabad,Bowler,Right Hand,9,HY,Aditya_HY
+322,Yash_HY,Hyderabad,Bowler,Right Hand,10,HY,Yash_HY
+323,Manav_HY,Hyderabad,Bowler,Right Hand,11,HY,Manav_HY
+324,Sarthak_HY,Hyderabad,Bowler,Right Hand,12,HY,Sarthak_HY
+325,Harsh_HY,Hyderabad,Bowler,Right Hand,13,HY,Harsh_HY
+326,Neeraj_HY,Hyderabad,Bowler,Right Hand,14,HY,Neeraj_HY
+327,Vivek_HY,Hyderabad,Bowler,Right Hand,15,HY,Vivek_HY
+328,Sai_HY,Hyderabad,All-rounder,Right Hand,16,HY,Sai_HY
+329,Rahul_HY,Hyderabad,All-rounder,Right Hand,17,HY,Rahul_HY
+330,Aniket_HY,Hyderabad,All-rounder,Right Hand,18,HY,Aniket_HY
+331,Shreyas_HY,Hyderabad,All-rounder,Right Hand,19,HY,Shreyas_HY
+332,Abhinav_HY,Hyderabad,All-rounder,Right Hand,20,HY,Abhinav_HY
+333,Gautham_HY,Hyderabad,All-rounder,Right Hand,21,HY,Gautham_HY
+334,Arjun_HY,Hyderabad,All-rounder,Right Hand,22,HY,Arjun_HY
+335,Ishan_HY,Hyderabad,Wicket Keeper,Right Hand,23,HY,Ishan_HY
+336,Pranav_HY,Hyderabad,Wicket Keeper,Right Hand,24,HY,Pranav_HY
+337,Gautham_JK,Jammu & Kashmir,Batter,Right Hand,1,JK,Gautham_JK
+338,Arjun_JK,Jammu & Kashmir,Batter,Right Hand,2,JK,Arjun_JK
+339,Ishan_JK,Jammu & Kashmir,Batter,Right Hand,3,JK,Ishan_JK
+340,Pranav_JK,Jammu & Kashmir,Batter,Right Hand,4,JK,Pranav_JK
+341,Dev_JK,Jammu & Kashmir,Batter,Right Hand,5,JK,Dev_JK
+342,Karthik_JK,Jammu & Kashmir,Batter,Right Hand,6,JK,Karthik_JK
+343,Nikhil_JK,Jammu & Kashmir,Batter,Right Hand,7,JK,Nikhil_JK
+344,Rohan_JK,Jammu & Kashmir,Batter,Right Hand,8,JK,Rohan_JK
+345,Aditya_JK,Jammu & Kashmir,Bowler,Right Hand,9,JK,Aditya_JK
+346,Yash_JK,Jammu & Kashmir,Bowler,Right Hand,10,JK,Yash_JK
+347,Manav_JK,Jammu & Kashmir,Bowler,Right Hand,11,JK,Manav_JK
+348,Sarthak_JK,Jammu & Kashmir,Bowler,Right Hand,12,JK,Sarthak_JK
+349,Harsh_JK,Jammu & Kashmir,Bowler,Right Hand,13,JK,Harsh_JK
+350,Neeraj_JK,Jammu & Kashmir,Bowler,Right Hand,14,JK,Neeraj_JK
+351,Vivek_JK,Jammu & Kashmir,Bowler,Right Hand,15,JK,Vivek_JK
+352,Sai_JK,Jammu & Kashmir,All-rounder,Right Hand,16,JK,Sai_JK
+353,Rahul_JK,Jammu & Kashmir,All-rounder,Right Hand,17,JK,Rahul_JK
+354,Aniket_JK,Jammu & Kashmir,All-rounder,Right Hand,18,JK,Aniket_JK
+355,Shreyas_JK,Jammu & Kashmir,All-rounder,Right Hand,19,JK,Shreyas_JK
+356,Abhinav_JK,Jammu & Kashmir,All-rounder,Right Hand,20,JK,Abhinav_JK
+357,Gautham_JK,Jammu & Kashmir,All-rounder,Right Hand,21,JK,Gautham_JK
+358,Arjun_JK,Jammu & Kashmir,All-rounder,Right Hand,22,JK,Arjun_JK
+359,Ishan_JK,Jammu & Kashmir,Wicket Keeper,Right Hand,23,JK,Ishan_JK
+360,Pranav_JK,Jammu & Kashmir,Wicket Keeper,Right Hand,24,JK,Pranav_JK
+361,Gautham_JH,Jharkhand,Batter,Right Hand,1,JH,Gautham_JH
+362,Arjun_JH,Jharkhand,Batter,Right Hand,2,JH,Arjun_JH
+363,Ishan_JH,Jharkhand,Batter,Right Hand,3,JH,Ishan_JH
+364,Pranav_JH,Jharkhand,Batter,Right Hand,4,JH,Pranav_JH
+365,Dev_JH,Jharkhand,Batter,Right Hand,5,JH,Dev_JH
+366,Karthik_JH,Jharkhand,Batter,Right Hand,6,JH,Karthik_JH
+367,Nikhil_JH,Jharkhand,Batter,Right Hand,7,JH,Nikhil_JH
+368,Rohan_JH,Jharkhand,Batter,Right Hand,8,JH,Rohan_JH
+369,Aditya_JH,Jharkhand,Bowler,Right Hand,9,JH,Aditya_JH
+370,Yash_JH,Jharkhand,Bowler,Right Hand,10,JH,Yash_JH
+371,Manav_JH,Jharkhand,Bowler,Right Hand,11,JH,Manav_JH
+372,Sarthak_JH,Jharkhand,Bowler,Right Hand,12,JH,Sarthak_JH
+373,Harsh_JH,Jharkhand,Bowler,Right Hand,13,JH,Harsh_JH
+374,Neeraj_JH,Jharkhand,Bowler,Right Hand,14,JH,Neeraj_JH
+375,Vivek_JH,Jharkhand,Bowler,Right Hand,15,JH,Vivek_JH
+376,Sai_JH,Jharkhand,All-rounder,Right Hand,16,JH,Sai_JH
+377,Rahul_JH,Jharkhand,All-rounder,Right Hand,17,JH,Rahul_JH
+378,Aniket_JH,Jharkhand,All-rounder,Right Hand,18,JH,Aniket_JH
+379,Shreyas_JH,Jharkhand,All-rounder,Right Hand,19,JH,Shreyas_JH
+380,Abhinav_JH,Jharkhand,All-rounder,Right Hand,20,JH,Abhinav_JH
+381,Gautham_JH,Jharkhand,All-rounder,Right Hand,21,JH,Gautham_JH
+382,Arjun_JH,Jharkhand,All-rounder,Right Hand,22,JH,Arjun_JH
+383,Ishan_JH,Jharkhand,Wicket Keeper,Right Hand,23,JH,Ishan_JH
+384,Pranav_JH,Jharkhand,Wicket Keeper,Right Hand,24,JH,Pranav_JH
+385,Gautham_KA,Karnataka,Batter,Right Hand,1,KA,Gautham_KA
+386,Arjun_KA,Karnataka,Batter,Right Hand,2,KA,Arjun_KA
+387,Ishan_KA,Karnataka,Batter,Right Hand,3,KA,Ishan_KA
+388,Pranav_KA,Karnataka,Batter,Right Hand,4,KA,Pranav_KA
+389,Dev_KA,Karnataka,Batter,Right Hand,5,KA,Dev_KA
+390,Karthik_KA,Karnataka,Batter,Right Hand,6,KA,Karthik_KA
+391,Nikhil_KA,Karnataka,Batter,Right Hand,7,KA,Nikhil_KA
+392,Rohan_KA,Karnataka,Batter,Right Hand,8,KA,Rohan_KA
+393,Aditya_KA,Karnataka,Bowler,Right Hand,9,KA,Aditya_KA
+394,Yash_KA,Karnataka,Bowler,Right Hand,10,KA,Yash_KA
+395,Manav_KA,Karnataka,Bowler,Right Hand,11,KA,Manav_KA
+396,Sarthak_KA,Karnataka,Bowler,Right Hand,12,KA,Sarthak_KA
+397,Harsh_KA,Karnataka,Bowler,Right Hand,13,KA,Harsh_KA
+398,Neeraj_KA,Karnataka,Bowler,Right Hand,14,KA,Neeraj_KA
+399,Vivek_KA,Karnataka,Bowler,Right Hand,15,KA,Vivek_KA
+400,Sai_KA,Karnataka,All-rounder,Right Hand,16,KA,Sai_KA
+401,Rahul_KA,Karnataka,All-rounder,Right Hand,17,KA,Rahul_KA
+402,Aniket_KA,Karnataka,All-rounder,Right Hand,18,KA,Aniket_KA
+403,Shreyas_KA,Karnataka,All-rounder,Right Hand,19,KA,Shreyas_KA
+404,Abhinav_KA,Karnataka,All-rounder,Right Hand,20,KA,Abhinav_KA
+405,Gautham_KA,Karnataka,All-rounder,Right Hand,21,KA,Gautham_KA
+406,Arjun_KA,Karnataka,All-rounder,Right Hand,22,KA,Arjun_KA
+407,Ishan_KA,Karnataka,Wicket Keeper,Right Hand,23,KA,Ishan_KA
+408,Pranav_KA,Karnataka,Wicket Keeper,Right Hand,24,KA,Pranav_KA
+409,Gautham_KL,Kerala,Batter,Right Hand,1,KL,Gautham_KL
+410,Arjun_KL,Kerala,Batter,Right Hand,2,KL,Arjun_KL
+411,Ishan_KL,Kerala,Batter,Right Hand,3,KL,Ishan_KL
+412,Pranav_KL,Kerala,Batter,Right Hand,4,KL,Pranav_KL
+413,Dev_KL,Kerala,Batter,Right Hand,5,KL,Dev_KL
+414,Karthik_KL,Kerala,Batter,Right Hand,6,KL,Karthik_KL
+415,Nikhil_KL,Kerala,Batter,Right Hand,7,KL,Nikhil_KL
+416,Rohan_KL,Kerala,Batter,Right Hand,8,KL,Rohan_KL
+417,Aditya_KL,Kerala,Bowler,Right Hand,9,KL,Aditya_KL
+418,Yash_KL,Kerala,Bowler,Right Hand,10,KL,Yash_KL
+419,Manav_KL,Kerala,Bowler,Right Hand,11,KL,Manav_KL
+420,Sarthak_KL,Kerala,Bowler,Right Hand,12,KL,Sarthak_KL
+421,Harsh_KL,Kerala,Bowler,Right Hand,13,KL,Harsh_KL
+422,Neeraj_KL,Kerala,Bowler,Right Hand,14,KL,Neeraj_KL
+423,Vivek_KL,Kerala,Bowler,Right Hand,15,KL,Vivek_KL
+424,Sai_KL,Kerala,All-rounder,Right Hand,16,KL,Sai_KL
+425,Rahul_KL,Kerala,All-rounder,Right Hand,17,KL,Rahul_KL
+426,Aniket_KL,Kerala,All-rounder,Right Hand,18,KL,Aniket_KL
+427,Shreyas_KL,Kerala,All-rounder,Right Hand,19,KL,Shreyas_KL
+428,Abhinav_KL,Kerala,All-rounder,Right Hand,20,KL,Abhinav_KL
+429,Gautham_KL,Kerala,All-rounder,Right Hand,21,KL,Gautham_KL
+430,Arjun_KL,Kerala,All-rounder,Right Hand,22,KL,Arjun_KL
+431,Ishan_KL,Kerala,Wicket Keeper,Right Hand,23,KL,Ishan_KL
+432,Pranav_KL,Kerala,Wicket Keeper,Right Hand,24,KL,Pranav_KL
+433,Gautham_MP,Madhya Pradesh,Batter,Right Hand,1,MP,Gautham_MP
+434,Arjun_MP,Madhya Pradesh,Batter,Right Hand,2,MP,Arjun_MP
+435,Ishan_MP,Madhya Pradesh,Batter,Right Hand,3,MP,Ishan_MP
+436,Pranav_MP,Madhya Pradesh,Batter,Right Hand,4,MP,Pranav_MP
+437,Dev_MP,Madhya Pradesh,Batter,Right Hand,5,MP,Dev_MP
+438,Karthik_MP,Madhya Pradesh,Batter,Right Hand,6,MP,Karthik_MP
+439,Nikhil_MP,Madhya Pradesh,Batter,Right Hand,7,MP,Nikhil_MP
+440,Rohan_MP,Madhya Pradesh,Batter,Right Hand,8,MP,Rohan_MP
+441,Aditya_MP,Madhya Pradesh,Bowler,Right Hand,9,MP,Aditya_MP
+442,Yash_MP,Madhya Pradesh,Bowler,Right Hand,10,MP,Yash_MP
+443,Manav_MP,Madhya Pradesh,Bowler,Right Hand,11,MP,Manav_MP
+444,Sarthak_MP,Madhya Pradesh,Bowler,Right Hand,12,MP,Sarthak_MP
+445,Harsh_MP,Madhya Pradesh,Bowler,Right Hand,13,MP,Harsh_MP
+446,Neeraj_MP,Madhya Pradesh,Bowler,Right Hand,14,MP,Neeraj_MP
+447,Vivek_MP,Madhya Pradesh,Bowler,Right Hand,15,MP,Vivek_MP
+448,Sai_MP,Madhya Pradesh,All-rounder,Right Hand,16,MP,Sai_MP
+449,Rahul_MP,Madhya Pradesh,All-rounder,Right Hand,17,MP,Rahul_MP
+450,Aniket_MP,Madhya Pradesh,All-rounder,Right Hand,18,MP,Aniket_MP
+451,Shreyas_MP,Madhya Pradesh,All-rounder,Right Hand,19,MP,Shreyas_MP
+452,Abhinav_MP,Madhya Pradesh,All-rounder,Right Hand,20,MP,Abhinav_MP
+453,Gautham_MP,Madhya Pradesh,All-rounder,Right Hand,21,MP,Gautham_MP
+454,Arjun_MP,Madhya Pradesh,All-rounder,Right Hand,22,MP,Arjun_MP
+455,Ishan_MP,Madhya Pradesh,Wicket Keeper,Right Hand,23,MP,Ishan_MP
+456,Pranav_MP,Madhya Pradesh,Wicket Keeper,Right Hand,24,MP,Pranav_MP
+457,Gautham_MH,Maharashtra,Batter,Right Hand,1,MH,Gautham_MH
+458,Arjun_MH,Maharashtra,Batter,Right Hand,2,MH,Arjun_MH
+459,Ishan_MH,Maharashtra,Batter,Right Hand,3,MH,Ishan_MH
+460,Pranav_MH,Maharashtra,Batter,Right Hand,4,MH,Pranav_MH
+461,Dev_MH,Maharashtra,Batter,Right Hand,5,MH,Dev_MH
+462,Karthik_MH,Maharashtra,Batter,Right Hand,6,MH,Karthik_MH
+463,Nikhil_MH,Maharashtra,Batter,Right Hand,7,MH,Nikhil_MH
+464,Rohan_MH,Maharashtra,Batter,Right Hand,8,MH,Rohan_MH
+465,Aditya_MH,Maharashtra,Bowler,Right Hand,9,MH,Aditya_MH
+466,Yash_MH,Maharashtra,Bowler,Right Hand,10,MH,Yash_MH
+467,Manav_MH,Maharashtra,Bowler,Right Hand,11,MH,Manav_MH
+468,Sarthak_MH,Maharashtra,Bowler,Right Hand,12,MH,Sarthak_MH
+469,Harsh_MH,Maharashtra,Bowler,Right Hand,13,MH,Harsh_MH
+470,Neeraj_MH,Maharashtra,Bowler,Right Hand,14,MH,Neeraj_MH
+471,Vivek_MH,Maharashtra,Bowler,Right Hand,15,MH,Vivek_MH
+472,Sai_MH,Maharashtra,All-rounder,Right Hand,16,MH,Sai_MH
+473,Rahul_MH,Maharashtra,All-rounder,Right Hand,17,MH,Rahul_MH
+474,Aniket_MH,Maharashtra,All-rounder,Right Hand,18,MH,Aniket_MH
+475,Shreyas_MH,Maharashtra,All-rounder,Right Hand,19,MH,Shreyas_MH
+476,Abhinav_MH,Maharashtra,All-rounder,Right Hand,20,MH,Abhinav_MH
+477,Gautham_MH,Maharashtra,All-rounder,Right Hand,21,MH,Gautham_MH
+478,Arjun_MH,Maharashtra,All-rounder,Right Hand,22,MH,Arjun_MH
+479,Ishan_MH,Maharashtra,Wicket Keeper,Right Hand,23,MH,Ishan_MH
+480,Pranav_MH,Maharashtra,Wicket Keeper,Right Hand,24,MH,Pranav_MH
+481,Gautham_MN,Manipur,Batter,Right Hand,1,MN,Gautham_MN
+482,Arjun_MN,Manipur,Batter,Right Hand,2,MN,Arjun_MN
+483,Ishan_MN,Manipur,Batter,Right Hand,3,MN,Ishan_MN
+484,Pranav_MN,Manipur,Batter,Right Hand,4,MN,Pranav_MN
+485,Dev_MN,Manipur,Batter,Right Hand,5,MN,Dev_MN
+486,Karthik_MN,Manipur,Batter,Right Hand,6,MN,Karthik_MN
+487,Nikhil_MN,Manipur,Batter,Right Hand,7,MN,Nikhil_MN
+488,Rohan_MN,Manipur,Batter,Right Hand,8,MN,Rohan_MN
+489,Aditya_MN,Manipur,Bowler,Right Hand,9,MN,Aditya_MN
+490,Yash_MN,Manipur,Bowler,Right Hand,10,MN,Yash_MN
+491,Manav_MN,Manipur,Bowler,Right Hand,11,MN,Manav_MN
+492,Sarthak_MN,Manipur,Bowler,Right Hand,12,MN,Sarthak_MN
+493,Harsh_MN,Manipur,Bowler,Right Hand,13,MN,Harsh_MN
+494,Neeraj_MN,Manipur,Bowler,Right Hand,14,MN,Neeraj_MN
+495,Vivek_MN,Manipur,Bowler,Right Hand,15,MN,Vivek_MN
+496,Sai_MN,Manipur,All-rounder,Right Hand,16,MN,Sai_MN
+497,Rahul_MN,Manipur,All-rounder,Right Hand,17,MN,Rahul_MN
+498,Aniket_MN,Manipur,All-rounder,Right Hand,18,MN,Aniket_MN
+499,Shreyas_MN,Manipur,All-rounder,Right Hand,19,MN,Shreyas_MN
+500,Abhinav_MN,Manipur,All-rounder,Right Hand,20,MN,Abhinav_MN
+501,Gautham_MN,Manipur,All-rounder,Right Hand,21,MN,Gautham_MN
+502,Arjun_MN,Manipur,All-rounder,Right Hand,22,MN,Arjun_MN
+503,Ishan_MN,Manipur,Wicket Keeper,Right Hand,23,MN,Ishan_MN
+504,Pranav_MN,Manipur,Wicket Keeper,Right Hand,24,MN,Pranav_MN
+505,Gautham_ML,Meghalaya,Batter,Right Hand,1,ML,Gautham_ML
+506,Arjun_ML,Meghalaya,Batter,Right Hand,2,ML,Arjun_ML
+507,Ishan_ML,Meghalaya,Batter,Right Hand,3,ML,Ishan_ML
+508,Pranav_ML,Meghalaya,Batter,Right Hand,4,ML,Pranav_ML
+509,Dev_ML,Meghalaya,Batter,Right Hand,5,ML,Dev_ML
+510,Karthik_ML,Meghalaya,Batter,Right Hand,6,ML,Karthik_ML
+511,Nikhil_ML,Meghalaya,Batter,Right Hand,7,ML,Nikhil_ML
+512,Rohan_ML,Meghalaya,Batter,Right Hand,8,ML,Rohan_ML
+513,Aditya_ML,Meghalaya,Bowler,Right Hand,9,ML,Aditya_ML
+514,Yash_ML,Meghalaya,Bowler,Right Hand,10,ML,Yash_ML
+515,Manav_ML,Meghalaya,Bowler,Right Hand,11,ML,Manav_ML
+516,Sarthak_ML,Meghalaya,Bowler,Right Hand,12,ML,Sarthak_ML
+517,Harsh_ML,Meghalaya,Bowler,Right Hand,13,ML,Harsh_ML
+518,Neeraj_ML,Meghalaya,Bowler,Right Hand,14,ML,Neeraj_ML
+519,Vivek_ML,Meghalaya,Bowler,Right Hand,15,ML,Vivek_ML
+520,Sai_ML,Meghalaya,All-rounder,Right Hand,16,ML,Sai_ML
+521,Rahul_ML,Meghalaya,All-rounder,Right Hand,17,ML,Rahul_ML
+522,Aniket_ML,Meghalaya,All-rounder,Right Hand,18,ML,Aniket_ML
+523,Shreyas_ML,Meghalaya,All-rounder,Right Hand,19,ML,Shreyas_ML
+524,Abhinav_ML,Meghalaya,All-rounder,Right Hand,20,ML,Abhinav_ML
+525,Gautham_ML,Meghalaya,All-rounder,Right Hand,21,ML,Gautham_ML
+526,Arjun_ML,Meghalaya,All-rounder,Right Hand,22,ML,Arjun_ML
+527,Ishan_ML,Meghalaya,Wicket Keeper,Right Hand,23,ML,Ishan_ML
+528,Pranav_ML,Meghalaya,Wicket Keeper,Right Hand,24,ML,Pranav_ML
+529,Gautham_MZ,Mizoram,Batter,Right Hand,1,MZ,Gautham_MZ
+530,Arjun_MZ,Mizoram,Batter,Right Hand,2,MZ,Arjun_MZ
+531,Ishan_MZ,Mizoram,Batter,Right Hand,3,MZ,Ishan_MZ
+532,Pranav_MZ,Mizoram,Batter,Right Hand,4,MZ,Pranav_MZ
+533,Dev_MZ,Mizoram,Batter,Right Hand,5,MZ,Dev_MZ
+534,Karthik_MZ,Mizoram,Batter,Right Hand,6,MZ,Karthik_MZ
+535,Nikhil_MZ,Mizoram,Batter,Right Hand,7,MZ,Nikhil_MZ
+536,Rohan_MZ,Mizoram,Batter,Right Hand,8,MZ,Rohan_MZ
+537,Aditya_MZ,Mizoram,Bowler,Right Hand,9,MZ,Aditya_MZ
+538,Yash_MZ,Mizoram,Bowler,Right Hand,10,MZ,Yash_MZ
+539,Manav_MZ,Mizoram,Bowler,Right Hand,11,MZ,Manav_MZ
+540,Sarthak_MZ,Mizoram,Bowler,Right Hand,12,MZ,Sarthak_MZ
+541,Harsh_MZ,Mizoram,Bowler,Right Hand,13,MZ,Harsh_MZ
+542,Neeraj_MZ,Mizoram,Bowler,Right Hand,14,MZ,Neeraj_MZ
+543,Vivek_MZ,Mizoram,Bowler,Right Hand,15,MZ,Vivek_MZ
+544,Sai_MZ,Mizoram,All-rounder,Right Hand,16,MZ,Sai_MZ
+545,Rahul_MZ,Mizoram,All-rounder,Right Hand,17,MZ,Rahul_MZ
+546,Aniket_MZ,Mizoram,All-rounder,Right Hand,18,MZ,Aniket_MZ
+547,Shreyas_MZ,Mizoram,All-rounder,Right Hand,19,MZ,Shreyas_MZ
+548,Abhinav_MZ,Mizoram,All-rounder,Right Hand,20,MZ,Abhinav_MZ
+549,Gautham_MZ,Mizoram,All-rounder,Right Hand,21,MZ,Gautham_MZ
+550,Arjun_MZ,Mizoram,All-rounder,Right Hand,22,MZ,Arjun_MZ
+551,Ishan_MZ,Mizoram,Wicket Keeper,Right Hand,23,MZ,Ishan_MZ
+552,Pranav_MZ,Mizoram,Wicket Keeper,Right Hand,24,MZ,Pranav_MZ
+553,Gautham_MB,Mumbai,Batter,Right Hand,1,MB,Gautham_MB
+554,Arjun_MB,Mumbai,Batter,Right Hand,2,MB,Arjun_MB
+555,Ishan_MB,Mumbai,Batter,Right Hand,3,MB,Ishan_MB
+556,Pranav_MB,Mumbai,Batter,Right Hand,4,MB,Pranav_MB
+557,Dev_MB,Mumbai,Batter,Right Hand,5,MB,Dev_MB
+558,Karthik_MB,Mumbai,Batter,Right Hand,6,MB,Karthik_MB
+559,Nikhil_MB,Mumbai,Batter,Right Hand,7,MB,Nikhil_MB
+560,Rohan_MB,Mumbai,Batter,Right Hand,8,MB,Rohan_MB
+561,Aditya_MB,Mumbai,Bowler,Right Hand,9,MB,Aditya_MB
+562,Yash_MB,Mumbai,Bowler,Right Hand,10,MB,Yash_MB
+563,Manav_MB,Mumbai,Bowler,Right Hand,11,MB,Manav_MB
+564,Sarthak_MB,Mumbai,Bowler,Right Hand,12,MB,Sarthak_MB
+565,Harsh_MB,Mumbai,Bowler,Right Hand,13,MB,Harsh_MB
+566,Neeraj_MB,Mumbai,Bowler,Right Hand,14,MB,Neeraj_MB
+567,Vivek_MB,Mumbai,Bowler,Right Hand,15,MB,Vivek_MB
+568,Sai_MB,Mumbai,All-rounder,Right Hand,16,MB,Sai_MB
+569,Rahul_MB,Mumbai,All-rounder,Right Hand,17,MB,Rahul_MB
+570,Aniket_MB,Mumbai,All-rounder,Right Hand,18,MB,Aniket_MB
+571,Shreyas_MB,Mumbai,All-rounder,Right Hand,19,MB,Shreyas_MB
+572,Abhinav_MB,Mumbai,All-rounder,Right Hand,20,MB,Abhinav_MB
+573,Gautham_MB,Mumbai,All-rounder,Right Hand,21,MB,Gautham_MB
+574,Arjun_MB,Mumbai,All-rounder,Right Hand,22,MB,Arjun_MB
+575,Ishan_MB,Mumbai,Wicket Keeper,Right Hand,23,MB,Ishan_MB
+576,Pranav_MB,Mumbai,Wicket Keeper,Right Hand,24,MB,Pranav_MB
+577,Gautham_NL,Nagaland,Batter,Right Hand,1,NL,Gautham_NL
+578,Arjun_NL,Nagaland,Batter,Right Hand,2,NL,Arjun_NL
+579,Ishan_NL,Nagaland,Batter,Right Hand,3,NL,Ishan_NL
+580,Pranav_NL,Nagaland,Batter,Right Hand,4,NL,Pranav_NL
+581,Dev_NL,Nagaland,Batter,Right Hand,5,NL,Dev_NL
+582,Karthik_NL,Nagaland,Batter,Right Hand,6,NL,Karthik_NL
+583,Nikhil_NL,Nagaland,Batter,Right Hand,7,NL,Nikhil_NL
+584,Rohan_NL,Nagaland,Batter,Right Hand,8,NL,Rohan_NL
+585,Aditya_NL,Nagaland,Bowler,Right Hand,9,NL,Aditya_NL
+586,Yash_NL,Nagaland,Bowler,Right Hand,10,NL,Yash_NL
+587,Manav_NL,Nagaland,Bowler,Right Hand,11,NL,Manav_NL
+588,Sarthak_NL,Nagaland,Bowler,Right Hand,12,NL,Sarthak_NL
+589,Harsh_NL,Nagaland,Bowler,Right Hand,13,NL,Harsh_NL
+590,Neeraj_NL,Nagaland,Bowler,Right Hand,14,NL,Neeraj_NL
+591,Vivek_NL,Nagaland,Bowler,Right Hand,15,NL,Vivek_NL
+592,Sai_NL,Nagaland,All-rounder,Right Hand,16,NL,Sai_NL
+593,Rahul_NL,Nagaland,All-rounder,Right Hand,17,NL,Rahul_NL
+594,Aniket_NL,Nagaland,All-rounder,Right Hand,18,NL,Aniket_NL
+595,Shreyas_NL,Nagaland,All-rounder,Right Hand,19,NL,Shreyas_NL
+596,Abhinav_NL,Nagaland,All-rounder,Right Hand,20,NL,Abhinav_NL
+597,Gautham_NL,Nagaland,All-rounder,Right Hand,21,NL,Gautham_NL
+598,Arjun_NL,Nagaland,All-rounder,Right Hand,22,NL,Arjun_NL
+599,Ishan_NL,Nagaland,Wicket Keeper,Right Hand,23,NL,Ishan_NL
+600,Pranav_NL,Nagaland,Wicket Keeper,Right Hand,24,NL,Pranav_NL
+601,Gautham_OD,Odisha,Batter,Right Hand,1,OD,Gautham_OD
+602,Arjun_OD,Odisha,Batter,Right Hand,2,OD,Arjun_OD
+603,Ishan_OD,Odisha,Batter,Right Hand,3,OD,Ishan_OD
+604,Pranav_OD,Odisha,Batter,Right Hand,4,OD,Pranav_OD
+605,Dev_OD,Odisha,Batter,Right Hand,5,OD,Dev_OD
+606,Karthik_OD,Odisha,Batter,Right Hand,6,OD,Karthik_OD
+607,Nikhil_OD,Odisha,Batter,Right Hand,7,OD,Nikhil_OD
+608,Rohan_OD,Odisha,Batter,Right Hand,8,OD,Rohan_OD
+609,Aditya_OD,Odisha,Bowler,Right Hand,9,OD,Aditya_OD
+610,Yash_OD,Odisha,Bowler,Right Hand,10,OD,Yash_OD
+611,Manav_OD,Odisha,Bowler,Right Hand,11,OD,Manav_OD
+612,Sarthak_OD,Odisha,Bowler,Right Hand,12,OD,Sarthak_OD
+613,Harsh_OD,Odisha,Bowler,Right Hand,13,OD,Harsh_OD
+614,Neeraj_OD,Odisha,Bowler,Right Hand,14,OD,Neeraj_OD
+615,Vivek_OD,Odisha,Bowler,Right Hand,15,OD,Vivek_OD
+616,Sai_OD,Odisha,All-rounder,Right Hand,16,OD,Sai_OD
+617,Rahul_OD,Odisha,All-rounder,Right Hand,17,OD,Rahul_OD
+618,Aniket_OD,Odisha,All-rounder,Right Hand,18,OD,Aniket_OD
+619,Shreyas_OD,Odisha,All-rounder,Right Hand,19,OD,Shreyas_OD
+620,Abhinav_OD,Odisha,All-rounder,Right Hand,20,OD,Abhinav_OD
+621,Gautham_OD,Odisha,All-rounder,Right Hand,21,OD,Gautham_OD
+622,Arjun_OD,Odisha,All-rounder,Right Hand,22,OD,Arjun_OD
+623,Ishan_OD,Odisha,Wicket Keeper,Right Hand,23,OD,Ishan_OD
+624,Pranav_OD,Odisha,Wicket Keeper,Right Hand,24,OD,Pranav_OD
+625,Gautham_PY,Puducherry,Batter,Right Hand,1,PY,Gautham_PY
+626,Arjun_PY,Puducherry,Batter,Right Hand,2,PY,Arjun_PY
+627,Ishan_PY,Puducherry,Batter,Right Hand,3,PY,Ishan_PY
+628,Pranav_PY,Puducherry,Batter,Right Hand,4,PY,Pranav_PY
+629,Dev_PY,Puducherry,Batter,Right Hand,5,PY,Dev_PY
+630,Karthik_PY,Puducherry,Batter,Right Hand,6,PY,Karthik_PY
+631,Nikhil_PY,Puducherry,Batter,Right Hand,7,PY,Nikhil_PY
+632,Rohan_PY,Puducherry,Batter,Right Hand,8,PY,Rohan_PY
+633,Aditya_PY,Puducherry,Bowler,Right Hand,9,PY,Aditya_PY
+634,Yash_PY,Puducherry,Bowler,Right Hand,10,PY,Yash_PY
+635,Manav_PY,Puducherry,Bowler,Right Hand,11,PY,Manav_PY
+636,Sarthak_PY,Puducherry,Bowler,Right Hand,12,PY,Sarthak_PY
+637,Harsh_PY,Puducherry,Bowler,Right Hand,13,PY,Harsh_PY
+638,Neeraj_PY,Puducherry,Bowler,Right Hand,14,PY,Neeraj_PY
+639,Vivek_PY,Puducherry,Bowler,Right Hand,15,PY,Vivek_PY
+640,Sai_PY,Puducherry,All-rounder,Right Hand,16,PY,Sai_PY
+641,Rahul_PY,Puducherry,All-rounder,Right Hand,17,PY,Rahul_PY
+642,Aniket_PY,Puducherry,All-rounder,Right Hand,18,PY,Aniket_PY
+643,Shreyas_PY,Puducherry,All-rounder,Right Hand,19,PY,Shreyas_PY
+644,Abhinav_PY,Puducherry,All-rounder,Right Hand,20,PY,Abhinav_PY
+645,Gautham_PY,Puducherry,All-rounder,Right Hand,21,PY,Gautham_PY
+646,Arjun_PY,Puducherry,All-rounder,Right Hand,22,PY,Arjun_PY
+647,Ishan_PY,Puducherry,Wicket Keeper,Right Hand,23,PY,Ishan_PY
+648,Pranav_PY,Puducherry,Wicket Keeper,Right Hand,24,PY,Pranav_PY
+649,Gautham_PB,Punjab,Batter,Right Hand,1,PB,Gautham_PB
+650,Arjun_PB,Punjab,Batter,Right Hand,2,PB,Arjun_PB
+651,Ishan_PB,Punjab,Batter,Right Hand,3,PB,Ishan_PB
+652,Pranav_PB,Punjab,Batter,Right Hand,4,PB,Pranav_PB
+653,Dev_PB,Punjab,Batter,Right Hand,5,PB,Dev_PB
+654,Karthik_PB,Punjab,Batter,Right Hand,6,PB,Karthik_PB
+655,Nikhil_PB,Punjab,Batter,Right Hand,7,PB,Nikhil_PB
+656,Rohan_PB,Punjab,Batter,Right Hand,8,PB,Rohan_PB
+657,Aditya_PB,Punjab,Bowler,Right Hand,9,PB,Aditya_PB
+658,Yash_PB,Punjab,Bowler,Right Hand,10,PB,Yash_PB
+659,Manav_PB,Punjab,Bowler,Right Hand,11,PB,Manav_PB
+660,Sarthak_PB,Punjab,Bowler,Right Hand,12,PB,Sarthak_PB
+661,Harsh_PB,Punjab,Bowler,Right Hand,13,PB,Harsh_PB
+662,Neeraj_PB,Punjab,Bowler,Right Hand,14,PB,Neeraj_PB
+663,Vivek_PB,Punjab,Bowler,Right Hand,15,PB,Vivek_PB
+664,Sai_PB,Punjab,All-rounder,Right Hand,16,PB,Sai_PB
+665,Rahul_PB,Punjab,All-rounder,Right Hand,17,PB,Rahul_PB
+666,Aniket_PB,Punjab,All-rounder,Right Hand,18,PB,Aniket_PB
+667,Shreyas_PB,Punjab,All-rounder,Right Hand,19,PB,Shreyas_PB
+668,Abhinav_PB,Punjab,All-rounder,Right Hand,20,PB,Abhinav_PB
+669,Gautham_PB,Punjab,All-rounder,Right Hand,21,PB,Gautham_PB
+670,Arjun_PB,Punjab,All-rounder,Right Hand,22,PB,Arjun_PB
+671,Ishan_PB,Punjab,Wicket Keeper,Right Hand,23,PB,Ishan_PB
+672,Pranav_PB,Punjab,Wicket Keeper,Right Hand,24,PB,Pranav_PB
+673,Gautham_RW,Railways,Batter,Right Hand,1,RW,Gautham_RW
+674,Arjun_RW,Railways,Batter,Right Hand,2,RW,Arjun_RW
+675,Ishan_RW,Railways,Batter,Right Hand,3,RW,Ishan_RW
+676,Pranav_RW,Railways,Batter,Right Hand,4,RW,Pranav_RW
+677,Dev_RW,Railways,Batter,Right Hand,5,RW,Dev_RW
+678,Karthik_RW,Railways,Batter,Right Hand,6,RW,Karthik_RW
+679,Nikhil_RW,Railways,Batter,Right Hand,7,RW,Nikhil_RW
+680,Rohan_RW,Railways,Batter,Right Hand,8,RW,Rohan_RW
+681,Aditya_RW,Railways,Bowler,Right Hand,9,RW,Aditya_RW
+682,Yash_RW,Railways,Bowler,Right Hand,10,RW,Yash_RW
+683,Manav_RW,Railways,Bowler,Right Hand,11,RW,Manav_RW
+684,Sarthak_RW,Railways,Bowler,Right Hand,12,RW,Sarthak_RW
+685,Harsh_RW,Railways,Bowler,Right Hand,13,RW,Harsh_RW
+686,Neeraj_RW,Railways,Bowler,Right Hand,14,RW,Neeraj_RW
+687,Vivek_RW,Railways,Bowler,Right Hand,15,RW,Vivek_RW
+688,Sai_RW,Railways,All-rounder,Right Hand,16,RW,Sai_RW
+689,Rahul_RW,Railways,All-rounder,Right Hand,17,RW,Rahul_RW
+690,Aniket_RW,Railways,All-rounder,Right Hand,18,RW,Aniket_RW
+691,Shreyas_RW,Railways,All-rounder,Right Hand,19,RW,Shreyas_RW
+692,Abhinav_RW,Railways,All-rounder,Right Hand,20,RW,Abhinav_RW
+693,Gautham_RW,Railways,All-rounder,Right Hand,21,RW,Gautham_RW
+694,Arjun_RW,Railways,All-rounder,Right Hand,22,RW,Arjun_RW
+695,Ishan_RW,Railways,Wicket Keeper,Right Hand,23,RW,Ishan_RW
+696,Pranav_RW,Railways,Wicket Keeper,Right Hand,24,RW,Pranav_RW
+697,Gautham_RJ,Rajasthan,Batter,Right Hand,1,RJ,Gautham_RJ
+698,Arjun_RJ,Rajasthan,Batter,Right Hand,2,RJ,Arjun_RJ
+699,Ishan_RJ,Rajasthan,Batter,Right Hand,3,RJ,Ishan_RJ
+700,Pranav_RJ,Rajasthan,Batter,Right Hand,4,RJ,Pranav_RJ
+701,Dev_RJ,Rajasthan,Batter,Right Hand,5,RJ,Dev_RJ
+702,Karthik_RJ,Rajasthan,Batter,Right Hand,6,RJ,Karthik_RJ
+703,Nikhil_RJ,Rajasthan,Batter,Right Hand,7,RJ,Nikhil_RJ
+704,Rohan_RJ,Rajasthan,Batter,Right Hand,8,RJ,Rohan_RJ
+705,Aditya_RJ,Rajasthan,Bowler,Right Hand,9,RJ,Aditya_RJ
+706,Yash_RJ,Rajasthan,Bowler,Right Hand,10,RJ,Yash_RJ
+707,Manav_RJ,Rajasthan,Bowler,Right Hand,11,RJ,Manav_RJ
+708,Sarthak_RJ,Rajasthan,Bowler,Right Hand,12,RJ,Sarthak_RJ
+709,Harsh_RJ,Rajasthan,Bowler,Right Hand,13,RJ,Harsh_RJ
+710,Neeraj_RJ,Rajasthan,Bowler,Right Hand,14,RJ,Neeraj_RJ
+711,Vivek_RJ,Rajasthan,Bowler,Right Hand,15,RJ,Vivek_RJ
+712,Sai_RJ,Rajasthan,All-rounder,Right Hand,16,RJ,Sai_RJ
+713,Rahul_RJ,Rajasthan,All-rounder,Right Hand,17,RJ,Rahul_RJ
+714,Aniket_RJ,Rajasthan,All-rounder,Right Hand,18,RJ,Aniket_RJ
+715,Shreyas_RJ,Rajasthan,All-rounder,Right Hand,19,RJ,Shreyas_RJ
+716,Abhinav_RJ,Rajasthan,All-rounder,Right Hand,20,RJ,Abhinav_RJ
+717,Gautham_RJ,Rajasthan,All-rounder,Right Hand,21,RJ,Gautham_RJ
+718,Arjun_RJ,Rajasthan,All-rounder,Right Hand,22,RJ,Arjun_RJ
+719,Ishan_RJ,Rajasthan,Wicket Keeper,Right Hand,23,RJ,Ishan_RJ
+720,Pranav_RJ,Rajasthan,Wicket Keeper,Right Hand,24,RJ,Pranav_RJ
+721,Gautham_SA,Saurashtra,Batter,Right Hand,1,SA,Gautham_SA
+722,Arjun_SA,Saurashtra,Batter,Right Hand,2,SA,Arjun_SA
+723,Ishan_SA,Saurashtra,Batter,Right Hand,3,SA,Ishan_SA
+724,Pranav_SA,Saurashtra,Batter,Right Hand,4,SA,Pranav_SA
+725,Dev_SA,Saurashtra,Batter,Right Hand,5,SA,Dev_SA
+726,Karthik_SA,Saurashtra,Batter,Right Hand,6,SA,Karthik_SA
+727,Nikhil_SA,Saurashtra,Batter,Right Hand,7,SA,Nikhil_SA
+728,Rohan_SA,Saurashtra,Batter,Right Hand,8,SA,Rohan_SA
+729,Aditya_SA,Saurashtra,Bowler,Right Hand,9,SA,Aditya_SA
+730,Yash_SA,Saurashtra,Bowler,Right Hand,10,SA,Yash_SA
+731,Manav_SA,Saurashtra,Bowler,Right Hand,11,SA,Manav_SA
+732,Sarthak_SA,Saurashtra,Bowler,Right Hand,12,SA,Sarthak_SA
+733,Harsh_SA,Saurashtra,Bowler,Right Hand,13,SA,Harsh_SA
+734,Neeraj_SA,Saurashtra,Bowler,Right Hand,14,SA,Neeraj_SA
+735,Vivek_SA,Saurashtra,Bowler,Right Hand,15,SA,Vivek_SA
+736,Sai_SA,Saurashtra,All-rounder,Right Hand,16,SA,Sai_SA
+737,Rahul_SA,Saurashtra,All-rounder,Right Hand,17,SA,Rahul_SA
+738,Aniket_SA,Saurashtra,All-rounder,Right Hand,18,SA,Aniket_SA
+739,Shreyas_SA,Saurashtra,All-rounder,Right Hand,19,SA,Shreyas_SA
+740,Abhinav_SA,Saurashtra,All-rounder,Right Hand,20,SA,Abhinav_SA
+741,Gautham_SA,Saurashtra,All-rounder,Right Hand,21,SA,Gautham_SA
+742,Arjun_SA,Saurashtra,All-rounder,Right Hand,22,SA,Arjun_SA
+743,Ishan_SA,Saurashtra,Wicket Keeper,Right Hand,23,SA,Ishan_SA
+744,Pranav_SA,Saurashtra,Wicket Keeper,Right Hand,24,SA,Pranav_SA
+745,Gautham_SV,Services,Batter,Right Hand,1,SV,Gautham_SV
+746,Arjun_SV,Services,Batter,Right Hand,2,SV,Arjun_SV
+747,Ishan_SV,Services,Batter,Right Hand,3,SV,Ishan_SV
+748,Pranav_SV,Services,Batter,Right Hand,4,SV,Pranav_SV
+749,Dev_SV,Services,Batter,Right Hand,5,SV,Dev_SV
+750,Karthik_SV,Services,Batter,Right Hand,6,SV,Karthik_SV
+751,Nikhil_SV,Services,Batter,Right Hand,7,SV,Nikhil_SV
+752,Rohan_SV,Services,Batter,Right Hand,8,SV,Rohan_SV
+753,Aditya_SV,Services,Bowler,Right Hand,9,SV,Aditya_SV
+754,Yash_SV,Services,Bowler,Right Hand,10,SV,Yash_SV
+755,Manav_SV,Services,Bowler,Right Hand,11,SV,Manav_SV
+756,Sarthak_SV,Services,Bowler,Right Hand,12,SV,Sarthak_SV
+757,Harsh_SV,Services,Bowler,Right Hand,13,SV,Harsh_SV
+758,Neeraj_SV,Services,Bowler,Right Hand,14,SV,Neeraj_SV
+759,Vivek_SV,Services,Bowler,Right Hand,15,SV,Vivek_SV
+760,Sai_SV,Services,All-rounder,Right Hand,16,SV,Sai_SV
+761,Rahul_SV,Services,All-rounder,Right Hand,17,SV,Rahul_SV
+762,Aniket_SV,Services,All-rounder,Right Hand,18,SV,Aniket_SV
+763,Shreyas_SV,Services,All-rounder,Right Hand,19,SV,Shreyas_SV
+764,Abhinav_SV,Services,All-rounder,Right Hand,20,SV,Abhinav_SV
+765,Gautham_SV,Services,All-rounder,Right Hand,21,SV,Gautham_SV
+766,Arjun_SV,Services,All-rounder,Right Hand,22,SV,Arjun_SV
+767,Ishan_SV,Services,Wicket Keeper,Right Hand,23,SV,Ishan_SV
+768,Pranav_SV,Services,Wicket Keeper,Right Hand,24,SV,Pranav_SV
+769,Gautham_SK,Sikkim,Batter,Right Hand,1,SK,Gautham_SK
+770,Arjun_SK,Sikkim,Batter,Right Hand,2,SK,Arjun_SK
+771,Ishan_SK,Sikkim,Batter,Right Hand,3,SK,Ishan_SK
+772,Pranav_SK,Sikkim,Batter,Right Hand,4,SK,Pranav_SK
+773,Dev_SK,Sikkim,Batter,Right Hand,5,SK,Dev_SK
+774,Karthik_SK,Sikkim,Batter,Right Hand,6,SK,Karthik_SK
+775,Nikhil_SK,Sikkim,Batter,Right Hand,7,SK,Nikhil_SK
+776,Rohan_SK,Sikkim,Batter,Right Hand,8,SK,Rohan_SK
+777,Aditya_SK,Sikkim,Bowler,Right Hand,9,SK,Aditya_SK
+778,Yash_SK,Sikkim,Bowler,Right Hand,10,SK,Yash_SK
+779,Manav_SK,Sikkim,Bowler,Right Hand,11,SK,Manav_SK
+780,Sarthak_SK,Sikkim,Bowler,Right Hand,12,SK,Sarthak_SK
+781,Harsh_SK,Sikkim,Bowler,Right Hand,13,SK,Harsh_SK
+782,Neeraj_SK,Sikkim,Bowler,Right Hand,14,SK,Neeraj_SK
+783,Vivek_SK,Sikkim,Bowler,Right Hand,15,SK,Vivek_SK
+784,Sai_SK,Sikkim,All-rounder,Right Hand,16,SK,Sai_SK
+785,Rahul_SK,Sikkim,All-rounder,Right Hand,17,SK,Rahul_SK
+786,Aniket_SK,Sikkim,All-rounder,Right Hand,18,SK,Aniket_SK
+787,Shreyas_SK,Sikkim,All-rounder,Right Hand,19,SK,Shreyas_SK
+788,Abhinav_SK,Sikkim,All-rounder,Right Hand,20,SK,Abhinav_SK
+789,Gautham_SK,Sikkim,All-rounder,Right Hand,21,SK,Gautham_SK
+790,Arjun_SK,Sikkim,All-rounder,Right Hand,22,SK,Arjun_SK
+791,Ishan_SK,Sikkim,Wicket Keeper,Right Hand,23,SK,Ishan_SK
+792,Pranav_SK,Sikkim,Wicket Keeper,Right Hand,24,SK,Pranav_SK
+793,Gautham_TN,Tamil Nadu,Batter,Right Hand,1,TN,Gautham_TN
+794,Arjun_TN,Tamil Nadu,Batter,Right Hand,2,TN,Arjun_TN
+795,Ishan_TN,Tamil Nadu,Batter,Right Hand,3,TN,Ishan_TN
+796,Pranav_TN,Tamil Nadu,Batter,Right Hand,4,TN,Pranav_TN
+797,Dev_TN,Tamil Nadu,Batter,Right Hand,5,TN,Dev_TN
+798,Karthik_TN,Tamil Nadu,Batter,Right Hand,6,TN,Karthik_TN
+799,Nikhil_TN,Tamil Nadu,Batter,Right Hand,7,TN,Nikhil_TN
+800,Rohan_TN,Tamil Nadu,Batter,Right Hand,8,TN,Rohan_TN
+801,Aditya_TN,Tamil Nadu,Bowler,Right Hand,9,TN,Aditya_TN
+802,Yash_TN,Tamil Nadu,Bowler,Right Hand,10,TN,Yash_TN
+803,Manav_TN,Tamil Nadu,Bowler,Right Hand,11,TN,Manav_TN
+804,Sarthak_TN,Tamil Nadu,Bowler,Right Hand,12,TN,Sarthak_TN
+805,Harsh_TN,Tamil Nadu,Bowler,Right Hand,13,TN,Harsh_TN
+806,Neeraj_TN,Tamil Nadu,Bowler,Right Hand,14,TN,Neeraj_TN
+807,Vivek_TN,Tamil Nadu,Bowler,Right Hand,15,TN,Vivek_TN
+808,Sai_TN,Tamil Nadu,All-rounder,Right Hand,16,TN,Sai_TN
+809,Rahul_TN,Tamil Nadu,All-rounder,Right Hand,17,TN,Rahul_TN
+810,Aniket_TN,Tamil Nadu,All-rounder,Right Hand,18,TN,Aniket_TN
+811,Shreyas_TN,Tamil Nadu,All-rounder,Right Hand,19,TN,Shreyas_TN
+812,Abhinav_TN,Tamil Nadu,All-rounder,Right Hand,20,TN,Abhinav_TN
+813,Gautham_TN,Tamil Nadu,All-rounder,Right Hand,21,TN,Gautham_TN
+814,Arjun_TN,Tamil Nadu,All-rounder,Right Hand,22,TN,Arjun_TN
+815,Ishan_TN,Tamil Nadu,Wicket Keeper,Right Hand,23,TN,Ishan_TN
+816,Pranav_TN,Tamil Nadu,Wicket Keeper,Right Hand,24,TN,Pranav_TN
+817,Gautham_TR,Tripura,Batter,Right Hand,1,TR,Gautham_TR
+818,Arjun_TR,Tripura,Batter,Right Hand,2,TR,Arjun_TR
+819,Ishan_TR,Tripura,Batter,Right Hand,3,TR,Ishan_TR
+820,Pranav_TR,Tripura,Batter,Right Hand,4,TR,Pranav_TR
+821,Dev_TR,Tripura,Batter,Right Hand,5,TR,Dev_TR
+822,Karthik_TR,Tripura,Batter,Right Hand,6,TR,Karthik_TR
+823,Nikhil_TR,Tripura,Batter,Right Hand,7,TR,Nikhil_TR
+824,Rohan_TR,Tripura,Batter,Right Hand,8,TR,Rohan_TR
+825,Aditya_TR,Tripura,Bowler,Right Hand,9,TR,Aditya_TR
+826,Yash_TR,Tripura,Bowler,Right Hand,10,TR,Yash_TR
+827,Manav_TR,Tripura,Bowler,Right Hand,11,TR,Manav_TR
+828,Sarthak_TR,Tripura,Bowler,Right Hand,12,TR,Sarthak_TR
+829,Harsh_TR,Tripura,Bowler,Right Hand,13,TR,Harsh_TR
+830,Neeraj_TR,Tripura,Bowler,Right Hand,14,TR,Neeraj_TR
+831,Vivek_TR,Tripura,Bowler,Right Hand,15,TR,Vivek_TR
+832,Sai_TR,Tripura,All-rounder,Right Hand,16,TR,Sai_TR
+833,Rahul_TR,Tripura,All-rounder,Right Hand,17,TR,Rahul_TR
+834,Aniket_TR,Tripura,All-rounder,Right Hand,18,TR,Aniket_TR
+835,Shreyas_TR,Tripura,All-rounder,Right Hand,19,TR,Shreyas_TR
+836,Abhinav_TR,Tripura,All-rounder,Right Hand,20,TR,Abhinav_TR
+837,Gautham_TR,Tripura,All-rounder,Right Hand,21,TR,Gautham_TR
+838,Arjun_TR,Tripura,All-rounder,Right Hand,22,TR,Arjun_TR
+839,Ishan_TR,Tripura,Wicket Keeper,Right Hand,23,TR,Ishan_TR
+840,Pranav_TR,Tripura,Wicket Keeper,Right Hand,24,TR,Pranav_TR
+841,Gautham_UK,Uttarakhand,Batter,Right Hand,1,UK,Gautham_UK
+842,Arjun_UK,Uttarakhand,Batter,Right Hand,2,UK,Arjun_UK
+843,Ishan_UK,Uttarakhand,Batter,Right Hand,3,UK,Ishan_UK
+844,Pranav_UK,Uttarakhand,Batter,Right Hand,4,UK,Pranav_UK
+845,Dev_UK,Uttarakhand,Batter,Right Hand,5,UK,Dev_UK
+846,Karthik_UK,Uttarakhand,Batter,Right Hand,6,UK,Karthik_UK
+847,Nikhil_UK,Uttarakhand,Batter,Right Hand,7,UK,Nikhil_UK
+848,Rohan_UK,Uttarakhand,Batter,Right Hand,8,UK,Rohan_UK
+849,Aditya_UK,Uttarakhand,Bowler,Right Hand,9,UK,Aditya_UK
+850,Yash_UK,Uttarakhand,Bowler,Right Hand,10,UK,Yash_UK
+851,Manav_UK,Uttarakhand,Bowler,Right Hand,11,UK,Manav_UK
+852,Sarthak_UK,Uttarakhand,Bowler,Right Hand,12,UK,Sarthak_UK
+853,Harsh_UK,Uttarakhand,Bowler,Right Hand,13,UK,Harsh_UK
+854,Neeraj_UK,Uttarakhand,Bowler,Right Hand,14,UK,Neeraj_UK
+855,Vivek_UK,Uttarakhand,Bowler,Right Hand,15,UK,Vivek_UK
+856,Sai_UK,Uttarakhand,All-rounder,Right Hand,16,UK,Sai_UK
+857,Rahul_UK,Uttarakhand,All-rounder,Right Hand,17,UK,Rahul_UK
+858,Aniket_UK,Uttarakhand,All-rounder,Right Hand,18,UK,Aniket_UK
+859,Shreyas_UK,Uttarakhand,All-rounder,Right Hand,19,UK,Shreyas_UK
+860,Abhinav_UK,Uttarakhand,All-rounder,Right Hand,20,UK,Abhinav_UK
+861,Gautham_UK,Uttarakhand,All-rounder,Right Hand,21,UK,Gautham_UK
+862,Arjun_UK,Uttarakhand,All-rounder,Right Hand,22,UK,Arjun_UK
+863,Ishan_UK,Uttarakhand,Wicket Keeper,Right Hand,23,UK,Ishan_UK
+864,Pranav_UK,Uttarakhand,Wicket Keeper,Right Hand,24,UK,Pranav_UK
+865,Gautham_UP,Uttar Pradesh,Batter,Right Hand,1,UP,Gautham_UP
+866,Arjun_UP,Uttar Pradesh,Batter,Right Hand,2,UP,Arjun_UP
+867,Ishan_UP,Uttar Pradesh,Batter,Right Hand,3,UP,Ishan_UP
+868,Pranav_UP,Uttar Pradesh,Batter,Right Hand,4,UP,Pranav_UP
+869,Dev_UP,Uttar Pradesh,Batter,Right Hand,5,UP,Dev_UP
+870,Karthik_UP,Uttar Pradesh,Batter,Right Hand,6,UP,Karthik_UP
+871,Nikhil_UP,Uttar Pradesh,Batter,Right Hand,7,UP,Nikhil_UP
+872,Rohan_UP,Uttar Pradesh,Batter,Right Hand,8,UP,Rohan_UP
+873,Aditya_UP,Uttar Pradesh,Bowler,Right Hand,9,UP,Aditya_UP
+874,Yash_UP,Uttar Pradesh,Bowler,Right Hand,10,UP,Yash_UP
+875,Manav_UP,Uttar Pradesh,Bowler,Right Hand,11,UP,Manav_UP
+876,Sarthak_UP,Uttar Pradesh,Bowler,Right Hand,12,UP,Sarthak_UP
+877,Harsh_UP,Uttar Pradesh,Bowler,Right Hand,13,UP,Harsh_UP
+878,Neeraj_UP,Uttar Pradesh,Bowler,Right Hand,14,UP,Neeraj_UP
+879,Vivek_UP,Uttar Pradesh,Bowler,Right Hand,15,UP,Vivek_UP
+880,Sai_UP,Uttar Pradesh,All-rounder,Right Hand,16,UP,Sai_UP
+881,Rahul_UP,Uttar Pradesh,All-rounder,Right Hand,17,UP,Rahul_UP
+882,Aniket_UP,Uttar Pradesh,All-rounder,Right Hand,18,UP,Aniket_UP
+883,Shreyas_UP,Uttar Pradesh,All-rounder,Right Hand,19,UP,Shreyas_UP
+884,Abhinav_UP,Uttar Pradesh,All-rounder,Right Hand,20,UP,Abhinav_UP
+885,Gautham_UP,Uttar Pradesh,All-rounder,Right Hand,21,UP,Gautham_UP
+886,Arjun_UP,Uttar Pradesh,All-rounder,Right Hand,22,UP,Arjun_UP
+887,Ishan_UP,Uttar Pradesh,Wicket Keeper,Right Hand,23,UP,Ishan_UP
+888,Pranav_UP,Uttar Pradesh,Wicket Keeper,Right Hand,24,UP,Pranav_UP
+889,Gautham_VD,Vidarbha,Batter,Right Hand,1,VD,Gautham_VD
+890,Arjun_VD,Vidarbha,Batter,Right Hand,2,VD,Arjun_VD
+891,Ishan_VD,Vidarbha,Batter,Right Hand,3,VD,Ishan_VD
+892,Pranav_VD,Vidarbha,Batter,Right Hand,4,VD,Pranav_VD
+893,Dev_VD,Vidarbha,Batter,Right Hand,5,VD,Dev_VD
+894,Karthik_VD,Vidarbha,Batter,Right Hand,6,VD,Karthik_VD
+895,Nikhil_VD,Vidarbha,Batter,Right Hand,7,VD,Nikhil_VD
+896,Rohan_VD,Vidarbha,Batter,Right Hand,8,VD,Rohan_VD
+897,Aditya_VD,Vidarbha,Bowler,Right Hand,9,VD,Aditya_VD
+898,Yash_VD,Vidarbha,Bowler,Right Hand,10,VD,Yash_VD
+899,Manav_VD,Vidarbha,Bowler,Right Hand,11,VD,Manav_VD
+900,Sarthak_VD,Vidarbha,Bowler,Right Hand,12,VD,Sarthak_VD
+901,Harsh_VD,Vidarbha,Bowler,Right Hand,13,VD,Harsh_VD
+902,Neeraj_VD,Vidarbha,Bowler,Right Hand,14,VD,Neeraj_VD
+903,Vivek_VD,Vidarbha,Bowler,Right Hand,15,VD,Vivek_VD
+904,Sai_VD,Vidarbha,All-rounder,Right Hand,16,VD,Sai_VD
+905,Rahul_VD,Vidarbha,All-rounder,Right Hand,17,VD,Rahul_VD
+906,Aniket_VD,Vidarbha,All-rounder,Right Hand,18,VD,Aniket_VD
+907,Shreyas_VD,Vidarbha,All-rounder,Right Hand,19,VD,Shreyas_VD
+908,Abhinav_VD,Vidarbha,All-rounder,Right Hand,20,VD,Abhinav_VD
+909,Gautham_VD,Vidarbha,All-rounder,Right Hand,21,VD,Gautham_VD
+910,Arjun_VD,Vidarbha,All-rounder,Right Hand,22,VD,Arjun_VD
+911,Ishan_VD,Vidarbha,Wicket Keeper,Right Hand,23,VD,Ishan_VD
+912,Pranav_VD,Vidarbha,Wicket Keeper,Right Hand,24,VD,Pranav_VD

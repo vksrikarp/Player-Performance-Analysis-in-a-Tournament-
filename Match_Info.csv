@@ -1,0 +1,139 @@
+MatchID,Date,Venue,Team1,Team2,Winner,Margin,TossWinner,TossDecision
+1,2025-10-01,Chennai,Punjab,Puducherry,Puducherry,5 wickets,Punjab,Field
+2,2025-10-02,Ranchi,Delhi,Kerala,Kerala,Draw,Kerala,Bat
+3,2025-10-03,Rajkot,Punjab,Bengal,Bengal,87 runs,Bengal,Field
+4,2025-10-04,Hyderabad,Madhya Pradesh,Services,Services,5 wickets,Services,Field
+5,2025-10-05,Delhi,Karnataka,Gujarat,Karnataka,35 runs,Gujarat,Field
+6,2025-10-06,Cuttack,Puducherry,Uttar Pradesh,Puducherry,Innings & 54 runs,Uttar Pradesh,Field
+7,2025-10-07,Kolkata,Odisha,Railways,Draw,87 runs,Odisha,Field
+8,2025-10-08,Kolkata,Kerala,Tripura,Tripura,5 wickets,Tripura,Field
+9,2025-10-09,Mumbai,Himachal Pradesh,Mizoram,Draw,8 wickets,Mizoram,Field
+10,2025-10-10,Pune,Uttarakhand,Assam,Assam,Innings & 54 runs,Uttarakhand,Field
+11,2025-10-11,Patna,Bihar,Punjab,Bihar,8 wickets,Bihar,Bat
+12,2025-10-12,Rajkot,Odisha,Arunachal Pradesh,Draw,35 runs,Odisha,Bat
+13,2025-10-13,Patna,Maharashtra,Tamil Nadu,Tamil Nadu,Draw,Maharashtra,Field
+14,2025-10-14,Hyderabad,Meghalaya,Jammu & Kashmir,Jammu & Kashmir,87 runs,Jammu & Kashmir,Bat
+15,2025-10-15,Kolkata,Mizoram,Vidarbha,Draw,8 wickets,Mizoram,Field
+16,2025-10-16,Lucknow,Uttarakhand,Arunachal Pradesh,Uttarakhand,8 wickets,Uttarakhand,Field
+17,2025-10-17,Nagpur,Tripura,Haryana,Tripura,5 wickets,Tripura,Field
+18,2025-10-18,Agartala,Tamil Nadu,Goa,Draw,87 runs,Goa,Field
+19,2025-10-19,Patna,Andhra,Gujarat,Draw,87 runs,Gujarat,Bat
+20,2025-10-20,Mumbai,Andhra,Assam,Draw,35 runs,Andhra,Bat
+21,2025-10-21,Ranchi,Gujarat,Hyderabad,Hyderabad,87 runs,Gujarat,Field
+22,2025-10-22,Agartala,Delhi,Bengal,Draw,8 wickets,Delhi,Bat
+23,2025-10-23,Indore,Delhi,Andhra,Draw,87 runs,Delhi,Field
+24,2025-10-24,Mumbai,Puducherry,Bihar,Draw,5 wickets,Puducherry,Bat
+25,2025-10-25,Delhi,Saurashtra,Services,Saurashtra,35 runs,Saurashtra,Bat
+26,2025-10-26,Jaipur,Gujarat,Jammu & Kashmir,Gujarat,8 wickets,Jammu & Kashmir,Field
+27,2025-10-27,Lucknow,Maharashtra,Puducherry,Draw,8 wickets,Maharashtra,Bat
+28,2025-10-28,Rajkot,Meghalaya,Goa,Goa,87 runs,Meghalaya,Bat
+29,2025-10-29,Delhi,Hyderabad,Sikkim,Hyderabad,5 wickets,Sikkim,Bat
+30,2025-10-30,Lucknow,Jammu & Kashmir,Vidarbha,Jammu & Kashmir,Draw,Vidarbha,Bat
+31,2025-10-31,Agartala,Uttarakhand,Uttar Pradesh,Uttar Pradesh,8 wickets,Uttar Pradesh,Bat
+32,2025-11-01,Mumbai,Kerala,Sikkim,Kerala,Innings & 54 runs,Sikkim,Bat
+33,2025-11-02,Jaipur,Chhattisgarh,Karnataka,Chhattisgarh,8 wickets,Karnataka,Bat
+34,2025-11-03,Pune,Baroda,Karnataka,Baroda,5 wickets,Baroda,Field
+35,2025-11-04,Agartala,Odisha,Uttar Pradesh,Draw,Innings & 54 runs,Uttar Pradesh,Field
+36,2025-11-05,Agartala,Vidarbha,Himachal Pradesh,Vidarbha,5 wickets,Vidarbha,Bat
+37,2025-11-06,Ranchi,Goa,Hyderabad,Hyderabad,35 runs,Hyderabad,Field
+38,2025-11-07,Kolkata,Uttarakhand,Goa,Uttarakhand,5 wickets,Uttarakhand,Bat
+39,2025-11-08,Lucknow,Railways,Baroda,Baroda,87 runs,Railways,Bat
+40,2025-11-09,Patna,Tripura,Uttarakhand,Draw,87 runs,Uttarakhand,Bat
+41,2025-11-10,Mumbai,Chhattisgarh,Maharashtra,Draw,5 wickets,Chhattisgarh,Field
+42,2025-11-11,Indore,Haryana,Karnataka,Haryana,35 runs,Haryana,Bat
+43,2025-11-12,Jaipur,Karnataka,Sikkim,Sikkim,Innings & 54 runs,Karnataka,Bat
+44,2025-11-13,Nagpur,Delhi,Himachal Pradesh,Draw,35 runs,Himachal Pradesh,Field
+45,2025-11-14,Chennai,Uttar Pradesh,Punjab,Punjab,5 wickets,Uttar Pradesh,Field
+46,2025-11-15,Agartala,Gujarat,Kerala,Draw,5 wickets,Kerala,Field
+47,2025-11-16,Ranchi,Railways,Rajasthan,Rajasthan,35 runs,Rajasthan,Bat
+48,2025-11-17,Agartala,Rajasthan,Bihar,Rajasthan,Innings & 54 runs,Rajasthan,Field
+49,2025-11-18,Hyderabad,Delhi,Tripura,Tripura,87 runs,Delhi,Field
+50,2025-11-19,Kolkata,Mumbai,Assam,Mumbai,5 wickets,Mumbai,Field
+51,2025-11-20,Hyderabad,Kerala,Hyderabad,Hyderabad,8 wickets,Hyderabad,Field
+52,2025-11-21,Chennai,Mumbai,Kerala,Kerala,5 wickets,Mumbai,Bat
+53,2025-11-22,Chennai,Arunachal Pradesh,Uttar Pradesh,Arunachal Pradesh,35 runs,Arunachal Pradesh,Field
+54,2025-11-23,Kolkata,Jharkhand,Bihar,Bihar,35 runs,Bihar,Bat
+55,2025-11-24,Ranchi,Meghalaya,Arunachal Pradesh,Meghalaya,8 wickets,Meghalaya,Bat
+56,2025-11-25,Rajkot,Haryana,Jharkhand,Draw,Draw,Haryana,Field
+57,2025-11-26,Hyderabad,Goa,Uttarakhand,Uttarakhand,Innings & 54 runs,Goa,Field
+58,2025-11-27,Ranchi,Meghalaya,Uttarakhand,Draw,8 wickets,Uttarakhand,Bat
+59,2025-11-28,Pune,Assam,Bihar,Bihar,Innings & 54 runs,Bihar,Field
+60,2025-11-29,Kolkata,Andhra,Railways,Railways,35 runs,Railways,Bat
+61,2025-11-30,Rajkot,Vidarbha,Saurashtra,Saurashtra,Innings & 54 runs,Saurashtra,Bat
+62,2025-12-01,Patna,Andhra,Saurashtra,Andhra,35 runs,Saurashtra,Bat
+63,2025-12-02,Agartala,Rajasthan,Uttar Pradesh,Draw,8 wickets,Rajasthan,Bat
+64,2025-12-03,Jaipur,Himachal Pradesh,Jammu & Kashmir,Draw,Draw,Himachal Pradesh,Field
+65,2025-12-04,Kolkata,Nagaland,Goa,Goa,Draw,Goa,Bat
+66,2025-12-05,Mumbai,Kerala,Uttarakhand,Kerala,Draw,Uttarakhand,Field
+67,2025-12-06,Nagpur,Goa,Meghalaya,Meghalaya,Draw,Meghalaya,Field
+68,2025-12-07,Cuttack,Services,Arunachal Pradesh,Services,87 runs,Services,Field
+69,2025-12-08,Kolkata,Goa,Mumbai,Mumbai,Innings & 54 runs,Mumbai,Bat
+70,2025-12-09,Delhi,Jharkhand,Maharashtra,Maharashtra,5 wickets,Jharkhand,Bat
+71,2025-12-10,Patna,Mumbai,Haryana,Mumbai,8 wickets,Haryana,Bat
+72,2025-12-11,Bengaluru,Tamil Nadu,Meghalaya,Meghalaya,35 runs,Tamil Nadu,Bat
+73,2025-12-12,Agartala,Tripura,Gujarat,Gujarat,35 runs,Tripura,Bat
+74,2025-12-13,Pune,Railways,Arunachal Pradesh,Draw,Draw,Arunachal Pradesh,Field
+75,2025-12-14,Hyderabad,Arunachal Pradesh,Haryana,Draw,Draw,Haryana,Field
+76,2025-12-15,Cuttack,Punjab,Bengal,Bengal,8 wickets,Punjab,Field
+77,2025-12-16,Kolkata,Chandigarh,Punjab,Chandigarh,87 runs,Punjab,Bat
+78,2025-12-17,Rajkot,Nagaland,Madhya Pradesh,Madhya Pradesh,8 wickets,Nagaland,Field
+79,2025-12-18,Indore,Goa,Jammu & Kashmir,Draw,Draw,Jammu & Kashmir,Field
+80,2025-12-19,Chennai,Puducherry,Madhya Pradesh,Draw,Innings & 54 runs,Madhya Pradesh,Field
+81,2025-12-20,Bengaluru,Jammu & Kashmir,Tamil Nadu,Draw,5 wickets,Jammu & Kashmir,Bat
+82,2025-12-21,Lucknow,Jammu & Kashmir,Chandigarh,Chandigarh,8 wickets,Chandigarh,Field
+83,2025-12-22,Ranchi,Meghalaya,Goa,Goa,87 runs,Meghalaya,Field
+84,2025-12-23,Nagpur,Hyderabad,Tripura,Draw,5 wickets,Tripura,Bat
+85,2025-12-24,Cuttack,Delhi,Himachal Pradesh,Himachal Pradesh,87 runs,Himachal Pradesh,Field
+86,2025-12-25,Rajkot,Odisha,Manipur,Odisha,8 wickets,Odisha,Bat
+87,2025-12-26,Delhi,Puducherry,Vidarbha,Puducherry,8 wickets,Vidarbha,Bat
+88,2025-12-27,Bengaluru,Jharkhand,Chhattisgarh,Draw,Draw,Jharkhand,Bat
+89,2025-12-28,Kolkata,Uttar Pradesh,Tamil Nadu,Tamil Nadu,8 wickets,Uttar Pradesh,Field
+90,2025-12-29,Jaipur,Goa,Assam,Draw,Draw,Goa,Bat
+91,2025-12-30,Kolkata,Odisha,Hyderabad,Odisha,35 runs,Hyderabad,Field
+92,2025-12-31,Mumbai,Jammu & Kashmir,Kerala,Kerala,Draw,Kerala,Bat
+93,2026-01-01,Jaipur,Tripura,Tamil Nadu,Tamil Nadu,5 wickets,Tripura,Field
+94,2026-01-02,Ranchi,Jharkhand,Mumbai,Mumbai,87 runs,Jharkhand,Bat
+95,2026-01-03,Rajkot,Bengal,Kerala,Draw,Innings & 54 runs,Kerala,Field
+96,2026-01-04,Pune,Hyderabad,Maharashtra,Hyderabad,Innings & 54 runs,Hyderabad,Field
+97,2026-01-05,Cuttack,Mizoram,Uttar Pradesh,Uttar Pradesh,87 runs,Mizoram,Bat
+98,2026-01-06,Delhi,Gujarat,Mumbai,Draw,35 runs,Mumbai,Bat
+99,2026-01-07,Nagpur,Odisha,Puducherry,Draw,Draw,Puducherry,Bat
+100,2026-01-08,Ranchi,Tamil Nadu,Punjab,Punjab,Draw,Punjab,Bat
+101,2026-01-09,Delhi,Goa,Puducherry,Draw,Draw,Goa,Field
+102,2026-01-10,Lucknow,Andhra,Odisha,Andhra,8 wickets,Odisha,Field
+103,2026-01-11,Chennai,Haryana,Kerala,Haryana,87 runs,Kerala,Field
+104,2026-01-12,Agartala,Haryana,Kerala,Kerala,Innings & 54 runs,Haryana,Field
+105,2026-01-13,Indore,Tamil Nadu,Kerala,Kerala,87 runs,Tamil Nadu,Bat
+106,2026-01-14,Chennai,Maharashtra,Haryana,Haryana,87 runs,Maharashtra,Bat
+107,2026-01-15,Nagpur,Tamil Nadu,Uttar Pradesh,Tamil Nadu,87 runs,Tamil Nadu,Field
+108,2026-01-16,Patna,Arunachal Pradesh,Meghalaya,Arunachal Pradesh,Innings & 54 runs,Arunachal Pradesh,Bat
+109,2026-01-17,Hyderabad,Hyderabad,Jharkhand,Hyderabad,Draw,Jharkhand,Bat
+110,2026-01-18,Bengaluru,Assam,Delhi,Draw,87 runs,Delhi,Bat
+111,2026-01-19,Agartala,Haryana,Odisha,Haryana,8 wickets,Haryana,Bat
+112,2026-01-20,Patna,Railways,Chandigarh,Railways,5 wickets,Railways,Bat
+113,2026-01-21,Hyderabad,Gujarat,Tamil Nadu,Draw,8 wickets,Tamil Nadu,Field
+114,2026-01-22,Cuttack,Chandigarh,Manipur,Chandigarh,8 wickets,Manipur,Bat
+115,2026-01-23,Cuttack,Mizoram,Himachal Pradesh,Draw,35 runs,Mizoram,Bat
+116,2026-01-24,Mumbai,Railways,Nagaland,Nagaland,Innings & 54 runs,Railways,Bat
+117,2026-01-25,Ranchi,Madhya Pradesh,Punjab,Madhya Pradesh,87 runs,Madhya Pradesh,Field
+118,2026-01-26,Bengaluru,Himachal Pradesh,Bengal,Bengal,35 runs,Bengal,Field
+119,2026-01-27,Patna,Baroda,Saurashtra,Draw,Draw,Baroda,Bat
+120,2026-01-28,Pune,Haryana,Mizoram,Draw,Innings & 54 runs,Haryana,Field
+121,2026-01-29,Agartala,Tripura,Sikkim,Draw,Draw,Sikkim,Field
+122,2026-01-30,Delhi,Sikkim,Goa,Goa,5 wickets,Goa,Bat
+123,2026-01-31,Indore,Himachal Pradesh,Rajasthan,Draw,8 wickets,Himachal Pradesh,Bat
+124,2026-02-01,Hyderabad,Railways,Maharashtra,Railways,Innings & 54 runs,Railways,Field
+125,2026-02-02,Bengaluru,Arunachal Pradesh,Madhya Pradesh,Madhya Pradesh,8 wickets,Arunachal Pradesh,Field
+126,2026-02-03,Ranchi,Hyderabad,Railways,Railways,Draw,Railways,Field
+127,2026-02-04,Bengaluru,Manipur,Madhya Pradesh,Manipur,Draw,Manipur,Field
+128,2026-02-05,Rajkot,Puducherry,Mizoram,Draw,5 wickets,Mizoram,Bat
+129,2026-02-06,Kolkata,Mizoram,Hyderabad,Draw,Innings & 54 runs,Hyderabad,Bat
+130,2026-02-07,Delhi,Jammu & Kashmir,Puducherry,Draw,35 runs,Puducherry,Field
+131,2026-02-08,Lucknow,Services,Mumbai,Services,8 wickets,Mumbai,Field
+132,2026-02-09,Hyderabad,Rajasthan,Madhya Pradesh,Rajasthan,87 runs,Rajasthan,Field
+133,2026-02-10,Indore,Gujarat,Maharashtra,Gujarat,5 wickets,Maharashtra,Field
+134,2026-02-11,Indore,Himachal Pradesh,Railways,Draw,Innings & 54 runs,Railways,Field
+135,2026-02-12,Bengaluru,Gujarat,Tamil Nadu,Tamil Nadu,87 runs,Gujarat,Bat
+136,2026-02-13,Lucknow,Nagaland,Tripura,Tripura,8 wickets,Tripura,Field
+137,2026-02-14,Cuttack,Vidarbha,Chandigarh,Chandigarh,5 wickets,Chandigarh,Field
+138,2026-02-15,Jaipur,Odisha,Arunachal Pradesh,Odisha,87 runs,Odisha,Field
